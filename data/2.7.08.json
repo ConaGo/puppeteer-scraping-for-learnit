@@ -1,0 +1,132 @@
+{
+  "link": "/Fragenkatalog/2.7.08",
+  "text": "Wartung von Kraftfahrzeugen und rechtzeitige Veranlassung von Reparaturen",
+  "number": "2.7.08",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.08-001",
+      "text": "Warum müssen Sie die Bremsflüssigkeit regelmäßig nach Vorgaben des Fahrzeugherstellers austauschen lassen?",
+      "number": "2.7.08-001",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Damit die Bauteile der Bremsanlage nicht beschädigt werden",
+        "Damit die Bremsanlage auch bei hoher Belastung funktionstüchtig bleibt",
+        "Damit der Wasseranteil in der Bremsflüssigkeit nicht unzulässig hoch wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-201",
+      "text": "Welche Folgen hat ein Verzicht auf den regelmäßigen Luftfilterwechsel für den Motor?",
+      "number": "2.7.08-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Der Schadstoffanteil in den Abgasen kann sich erhöhen",
+        "Der Kraftstoffverbrauch kann sich erhöhen",
+        "Die Leistung des Motors kann abnehmen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-202",
+      "text": "Warum sollte die Lauffläche der Reifen regelmäßig überprüft werden?",
+      "number": "2.7.08-202",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Weil ungleichmäßig abgefahrene Reifen auf schadhafte Stoßdämpfer oder Federungseinrichtungen hinweisen können",
+        "Weil einseitig abgefahrene Reifen auf falsche Spur- oder Sturzeinstellung hinweisen können",
+        "Weil ungleichmäßig abgefahrene Reifen das Fahrverhalten negativ beeinflussen können"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-203",
+      "text": "Warum sollten Sie vor Beginn der kalten Jahreszeit Ihr Fahrzeug überprüfen?",
+      "number": "2.7.08-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Weil die Batterie ausfallen kann",
+        "Weil die Kühlwasseranlage des Motors einfrieren kann",
+        "Weil die Scheibenwaschanlage einfrieren kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-204",
+      "text": "Welche Wartungsarbeiten können Sie vorbeugend an der Batterie durchführen?",
+      "number": "2.7.08-204",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Austausch der Batteriesäure"],
+      "correctAnswers": [
+        "Kabelanschlüsse und Batteriehalterung auf festen Sitz prüfen",
+        "Säubern und Fetten der Pole"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-207",
+      "text": "Warum sollten die vorgesehenen Inspektionen an Ihrem Fahrzeug durchgeführt werden?",
+      "number": "2.7.08-207",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Damit das Erreichen der Verschleißgrenzen sicherheitsrelevanter Fahrzeugteile rechtzeitig erkannt wird",
+        "Damit sicherheitsrelevante Fahrzeugteile auf Funktionalität überprüft werden",
+        "Damit umweltrelevante Fahrzeugteile auf Funktionalität überprüft werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-208",
+      "text": "Warum sollten Sie immer eine Abfahrtkontrolle an Ihrem Fahrzeug durchführen?",
+      "number": "2.7.08-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Weil dies der Verkehrssicherheit des Fahrzeugs dient",
+        "Weil dadurch der Verschleiß von Fahrzeugteilen frühzeitig erkannt wird",
+        "Weil damit das Risiko einer Panne während der Fahrt verringert wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-209",
+      "text": "Wie werden Schmierstellen an Kraftfahrzeugen und Anhängern abgeschmiert?",
+      "number": "2.7.08-209",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Durch regelmäßiges Überprüfen des Motorölstandes"],
+      "correctAnswers": [
+        "Bei manueller Schmierung mit einer Fettpresse an den dafür vorgesehenen Schmierstellen",
+        "Bei Zentralschmieranlagen aus einem Vorratsbehälter"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-212",
+      "text": "Was ist beim Abschmieren eines Fahrzeugs zu beachten?",
+      "number": "2.7.08-212",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Altes und neues Fett dürfen nicht kombiniert werden"
+      ],
+      "correctAnswers": [
+        "Es muss ein merklicher Fetteintrag zu erkennen sein",
+        "Die Schmiernippel müssen vor dem Abschmieren gereinigt werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.08-301",
+      "text": "Welche Wartungsarbeiten sind am Anhänger erforderlich?",
+      "number": "2.7.08-301",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Bremsbeläge schmieren"],
+      "correctAnswers": ["Drehkranz schmieren", "Zuggabel schmieren"]
+    }
+  ]
+}

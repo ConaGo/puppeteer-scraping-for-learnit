@@ -1,0 +1,117 @@
+{
+  "link": "/Fragenkatalog/2.2.34",
+  "text": "Unfall",
+  "number": "2.2.34",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.2.34-001-M",
+      "text": "Wie verhalten Sie sich in dieser Situation richtig?",
+      "number": "2.2.34-001",
+      "type": "video",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/videos/iOS/Low/2_2_34_001_M.mp4",
+      "incorrectAnswers": [
+        "Ich bremse sofort stark ab",
+        "Ich fotografiere die Unfallstelle"
+      ],
+      "correctAnswers": ["Ich fahre unverändert weiter"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-003-M",
+      "text": "Wie verhalten Sie sich jetzt richtig?",
+      "number": "2.2.34-003",
+      "type": "video",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/videos/iOS/Low/2_2_34_003_M.mp4",
+      "incorrectAnswers": ["Ich fahre unverändert weiter"],
+      "correctAnswers": [
+        " Ich verringere meine Geschwindigkeit weiter",
+        "Ich fahre so weit wie möglich links"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-201",
+      "text": "Sie haben auf der Autobahn mit Ihrem Lkw einen Unfall. In welcher Reihenfolge gehen Sie vor?",
+      "number": "2.2.34-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Unverzüglich anhalten, Zeugen suchen, Verkehr sichern und Verletzten helfen",
+        "Anhalten, Polizei anrufen, Warnblinklicht einschalten und warten"
+      ],
+      "correctAnswers": [
+        "Unverzüglich anhalten, Verkehr sichern, sich über die Unfallfolgen vergewissern und möglichen Verletzten helfen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-203",
+      "text": "Ihre Fahrgäste informieren Sie bei einer Autobahnfahrt über Rauchentwicklung im Bus. Was müssen Sie tun?",
+      "number": "2.2.34-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Weiterfahren bis zur nächsten Tankstelle, um Hilfe herbeizuholen"
+      ],
+      "correctAnswers": [
+        "Sofort auf dem Seitenstreifen anhalten und Fahrzeug in ausreichendem Abstand absichern",
+        "Die Fahrgäste zu einem Ort in sicherem Abstand vom Bus und der Autobahn leiten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-204",
+      "text": "Bei einem Unfall stürzt Ihr Bus um und die Türen lassen sich nicht mehr öffnen. Was müssen Sie tun?",
+      "number": "2.2.34-204",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zunächst auf Hilfe warten"],
+      "correctAnswers": [
+        "Die unverletzten Fahrgäste bitten, mitzuhelfen, dass Verletzte, Gebrechliche und Kinder sicher den Bus verlassen können",
+        "Die Fahrgäste auffordern, sofort durch Notausstiegsfenster und Notluken den Bus zu verlassen und dabei Ruhe zu bewahren"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-205",
+      "text": "Sie werden bei Nebel auf der Autobahn in einen Massenunfall verwickelt. Der Bus wird dabei von anderen Fahrzeugen eingekeilt. Was müssen Sie tun?",
+      "number": "2.2.34-205",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Sich zuerst um Zeugen an der Unfallstelle kümmern"],
+      "correctAnswers": [
+        "Nachdem die Fahrgäste sicher evakuiert sind, zum Unfallort zurückkehren",
+        "Verletzte und Fahrgäste zu einem Ort in sicherem Abstand vom Bus und der Autobahn bringen und Erste Hilfe leisten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-206",
+      "text": "Sie müssen wegen einer Panne auf dem rechten Seitenstreifen einer Autobahn anhalten. Was müssen Sie tun?",
+      "number": "2.2.34-206",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Dafür Sorge tragen, dass die Fahrgäste in sicherem Abstand vom Bus und von der Autobahn bleiben",
+        "Warnblinklicht einschalten und hinter dem Fahrzeug in ausreichendem Abstand Warnzeichen (Sicherungsmittel) aufstellen",
+        "Hilfe herbeirufen, sofern Sie die Panne nicht selbst beheben können"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-207",
+      "text": "Wer ist Beteiligter an einem Verkehrsunfall?",
+      "number": "2.2.34-207",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ein Zeuge, der Aussagen zum Ablauf machen kann"],
+      "correctAnswers": [
+        "Eine Person, die den Unfall verursacht hat",
+        "Eine Person, deren Verhalten zum Unfall beigetragen haben kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.34-208",
+      "text": "Muss der an einem Unfall Beteiligte sein Fahrzeug beiseite fahren?",
+      "number": "2.2.34-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Nein, in keinem Fall", "Ja, in jedem Fall"],
+      "correctAnswers": ["Ja, bei geringfügigem Schaden"]
+    }
+  ]
+}

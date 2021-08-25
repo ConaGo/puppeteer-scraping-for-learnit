@@ -1,0 +1,91 @@
+{
+  "link": "/Fragenkatalog/2.7.04",
+  "text": "Schmier- und Frostschutzmittel",
+  "number": "2.7.04",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.04-001",
+      "text": "Was sollten Sie beim Nachfüllen von Motoröl beachten?",
+      "number": "2.7.04-001",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ich fülle das Motoröl bei laufendem Motor nach"],
+      "correctAnswers": [
+        "Ich verwende Motoröl nach der Spezifikation des Fahrzeugherstellers",
+        "Ich überschreite den maximalen Füllstand nicht"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-002",
+      "text": "Welche Aufgabe hat Motoröl in einem Verbrennungsmotor?",
+      "number": "2.7.04-002",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "- der Kühlung",
+        "- der Reinigung",
+        "- dem Verschleißschutz"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-003",
+      "text": "Wie können Sie den Motorölstand kontrollieren?",
+      "number": "2.7.04-003",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- Momentanverbrauchsanzeige"],
+      "correctAnswers": ["- Schauglas", "- Ölmessstab"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-101",
+      "text": "Wie können Sie den Motorölstand kontrollieren?",
+      "number": "2.7.04-101",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- Momentanverbrauchsanzeige"],
+      "correctAnswers": ["- Fahrerinformationssystem", "- Ölmessstab"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-201",
+      "text": "Warum muss vor Beginn der Winterzeit die Kühlflüssigkeit auf ausreichenden Frostschutz überprüft werden?",
+      "number": "2.7.04-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Damit die Betriebserlaubnis des Kraftfahrzeugs nicht erlischt"
+      ],
+      "correctAnswers": [
+        "Damit die Kühlflüssigkeit nicht gefriert",
+        "Damit die Kühlanlage bei Frost nicht beschädigt wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-203",
+      "text": "Welche Aufgaben erfüllen Frostschutzmittel im Kühlflüssigkeitskreislauf?",
+      "number": "2.7.04-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Frostschutzmittel verursachen in den Sommermonaten Korrosion"
+      ],
+      "correctAnswers": [
+        "Frostschutzmittel schützen das Kühlsystem vor dem Einfrieren",
+        "Frostschutzmittel schützen vor Korrosion"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.04-206",
+      "text": "Welche Anforderungen werden an Schmieröle von Dieselmotoren gestellt?",
+      "number": "2.7.04-206",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Verschleißminderung",
+        "Fließfähigkeit bei Kälte",
+        "Hitzebeständigkeit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "link": "/Fragenkatalog/2.7.09",
+  "text": "Entgegennahme, Transport und Ablieferung der Güter",
+  "number": "2.7.09",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.09-202",
+      "text": "Wie breit darf ein Fahrzeug einschließlich Ladung höchstens sein (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen und Kühlfahrzeuge)?",
+      "number": "2.7.09-202",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": []
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-203",
+      "text": "Wie hoch darf ein Fahrzeug einschließlich Ladung höchstens sein (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen)?",
+      "number": "2.7.09-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": []
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-204",
+      "text": "Eine nach hinten hinausragende Ladung muss kenntlich gemacht werden. Welche Mittel sind bei Tage zulässig?",
+      "number": "2.7.09-204",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Eine orangefarbene Warntafel"],
+      "correctAnswers": [
+        "Eine hellrote, mindestens 30 x 30 cm große Fahne, die durch eine Querstange auseinander gehalten wird",
+        "Ein mindestens 30 x 30 cm großes, hellrotes, quer zur Fahrtrichtung pendelnd aufgehängtes Schild"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-208",
+      "text": "Welche Vorsichtsmaßnahmen sind vor Inbetriebnahme eines Ladekranes zu treffen?",
+      "number": "2.7.09-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Prüfen, ob seitliches Abstützen unbedingt erforderlich ist"
+      ],
+      "correctAnswers": [
+        "Im Schwenkbereich dürfen sich keine elektrischen Leitungen befinden",
+        "Mit Hilfe der seitlichen Stützen das Fahrzeug gegen Kippen sichern"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-209",
+      "text": "Unter welchen Voraussetzungen dürfen Sie eine Ladetätigkeit am Fahrbahnrand durchführen?",
+      "number": "2.7.09-209",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Während der Ladetätigkeit ist eine geringe Gefährdung des Verkehrs zulässig"
+      ],
+      "correctAnswers": [
+        "Die Sicherheit des Verkehrs darf nicht beeinträchtigt werden",
+        "Haltverbote dürfen nicht missachtet werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-210",
+      "text": "Welche Höhe des Fahrzeugs ist einschließlich der Ladung zulässig (ausgenommen Fahrzeuge mit land- oder forstwirtschaftlichen Erzeugnissen)?",
+      "number": "2.7.09-210",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["4,2 m", "4,5 m"],
+      "correctAnswers": ["4,0 m"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-211",
+      "text": "Welche Maßnahmen haben Sie zu treffen, wenn Sie mit einer heiß zu transportierenden Ladung (z.B.: Bitumentransport) mit einer Panne liegen bleiben?",
+      "number": "2.7.09-211",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Fahrzeug absichern",
+        "Hilfe organisieren",
+        "Die für die Ladung notwendige Temperatur sicherstellen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-216",
+      "text": "Welche Verhaltensmaßregeln haben Sie zu beachten, wenn Sie Kühlgut transportieren?",
+      "number": "2.7.09-216",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Keine besonderen"],
+      "correctAnswers": [
+        "Bei Ausfall der Kühlung geeignete Maßnahmen zum Erhalt der Ladung treffen",
+        "Ständig die Einhaltung der vorgegebenen Temperatur überwachen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-220",
+      "text": "Beim Transport bestimmter Güter sind besondere Vorschriften zu beachten. Für welche Güter gilt dies?",
+      "number": "2.7.09-220",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Für lebende Tiere",
+        "Für gefährliche Güter",
+        "Für Abfallgüter"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-221",
+      "text": "Wie ist die Ladung zu kennzeichnen, wenn sie seitlich mehr als 0,4 m über die Fahrzeugbegrenzungsleuchten hinausragt?",
+      "number": "2.7.09-221",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Seitlich ist bis zu 1 m eine Kennzeichnung nicht erforderlich",
+        "Seitlich nach vorn und seitlich nach hinten mit roten Reflektoren"
+      ],
+      "correctAnswers": [
+        "Seitlich nach vorn mit weißen und seitlich nach hinten mit roten Leuchten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-222",
+      "text": "Was müssen Sie bei der Beladung Ihres Fahrzeuges beachten?",
+      "number": "2.7.09-222",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "- die Einhaltung der zulässigen Gesamtmasse",
+        "- die Einhaltung der zulässigen Achslasten",
+        "- die Höhe, Breite, Lage und Sicherung der Ladung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-224",
+      "text": "Was bedeutet diese Tafel?",
+      "number": "2.7.09-224",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_09_224.png",
+      "incorrectAnswers": ["- Ambulanzfahrten", "- Armeefahrzeuge"],
+      "correctAnswers": ["- Abfalltransporte"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-225",
+      "text": "Wo können Sie Vorgaben zur Beförderung und Befestigung von Ladung auf Fahrzeugen finden?",
+      "number": "2.7.09-225",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["In der Zulassungsbescheinigung Teil II"],
+      "correctAnswers": [
+        "In anerkannten Regeln der Technik zur Ladungssicherung",
+        "In der Straßenverkehrsordnung (StVO)"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-226",
+      "text": "Sie fahren einen Stückguttransport mit unterschiedlich großen und schweren Transporteinheiten. Wie sollten Sie diese Ladung sichern?",
+      "number": "2.7.09-226",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Durch Gewährleistung von Mindestabständen zwischen den Transporteinheiten"
+      ],
+      "correctAnswers": [
+        "Durch formschlüssiges Anordnen der Transporteinheiten",
+        "Durch Unterteilen der Ladefläche in kleine Segmente mit Trennelementen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-227",
+      "text": "Sie transportieren Baumstämme. Die Fahrstrecke führt Sie auch über schlechte Straßen. Was müssen Sie tun?",
+      "number": "2.7.09-227",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- möglichst geringe Reibkräfte zwischen den Baumstämmen sicherstellen"
+      ],
+      "correctAnswers": [
+        "- die Ladungssicherung regelmäßig überprüfen",
+        "- meine Fahrgeschwindigkeit der Fahrbahn und der Ladung anpassen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-228",
+      "text": "Was müssen Sie bei der Entgegennahme beschädigter Ladung beachten, wenn von der Ladung eine Gefahr beim Transport zu erwarten ist?",
+      "number": "2.7.09-228",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- meine Fahrgeschwindigkeit an den Ladungszustand anpassen",
+        "- die Ladung unter Vorbehalt entgegennehmen"
+      ],
+      "correctAnswers": [
+        "- die Ladung zurückweisen, wenn ich die Gefahr nicht abwenden kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-229",
+      "text": "Wann müssen Sie Schüttgut auf Ihrem Fahrzeug abdecken?",
+      "number": "2.7.09-229",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- mehr als 40 cm über die Bordwände herausragt"],
+      "correctAnswers": [
+        "- herabfallen kann",
+        "- vom Wind herabgeweht werden kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.09-230",
+      "text": "Was gehört zur Ladungssicherung?",
+      "number": "2.7.09-230",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Abschluss einer Versicherung für die Ladung"],
+      "correctAnswers": [
+        "Das sichere Verstauen und Befestigen der Ladung",
+        "Die Abdeckung von Schüttgut"
+      ]
+    }
+  ]
+}

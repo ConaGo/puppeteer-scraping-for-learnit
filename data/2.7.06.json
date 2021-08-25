@@ -1,0 +1,638 @@
+{
+  "link": "/Fragenkatalog/2.7.06",
+  "text": "Bremsanlagen und Geschwindigkeitsregler",
+  "number": "2.7.06",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.06-101",
+      "text": "Was bewirkt ein Antiblockiersystem (ABS)?",
+      "number": "2.7.06-101",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Aquaplaning wird verhindert"],
+      "correctAnswers": [
+        "Auch bei glatter Fahrbahn wird das Fahrzeug bestmöglich gebremst",
+        "Beim Bremsen bleibt die Lenkfähigkeit weitgehend erhalten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-103",
+      "text": "Welche Vorteile bietet ein Antiblockiersystem (ABS)?",
+      "number": "2.7.06-103",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Kurven können wesentlich schneller durchfahren werden"
+      ],
+      "correctAnswers": [
+        "Selbst bei starkem Bremsen bleibt die Lenkfähigkeit erhalten",
+        "Beim Bremsen wird das Blockieren der Räder verhindert"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-104",
+      "text": "Welche Vorteile bietet ein Antiblockiersystem (ABS)?",
+      "number": "2.7.06-104",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Durchdrehen der Räder beim Anfahren wird verhindert",
+        "Beim Bremsen in Kurven wird die Kippgefahr vermindert"
+      ],
+      "correctAnswers": [
+        "Starkes Bremsen und gleichzeitiges Ausweichen ist möglich"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-105",
+      "text": "Wann tritt bei einem Anhänger mit Auflaufbremse die Bremswirkung ein?",
+      "number": "2.7.06-105",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Zeitgleich mit der Betätigung des Bremspedals im Zugfahrzeug",
+        "Vor Eintreten der Bremswirkung beim Zugfahrzeug, damit der Zug gestreckt bleibt"
+      ],
+      "correctAnswers": ["Beim Auflaufen des Anhängers auf das Zugfahrzeug"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-107",
+      "text": "Wann ist für eine Fahrzeugkombination die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
+      "number": "2.7.06-107",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Wenn dosiert beschleunigt wird"],
+      "correctAnswers": [
+        "Wenn bei Kurvenfahrten mit der Betriebsbremse mit maximaler Verzögerung gebremst wird",
+        "Wenn ruckartig gelenkt wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-108",
+      "text": "Wann ist für einen druckluftgebremsten Lastzug die Gefahr besonders groß, auf glatter Fahrbahn einzuknicken oder zu schleudern?",
+      "number": "2.7.06-108",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Wenn die Ladung überwiegend die Antriebsachse belastet"
+      ],
+      "correctAnswers": [
+        "Wenn der Lkw bei Kurvenfahrt stärker bremst als der Anhänger",
+        "Wenn der Retarder bei Kurvenfahrt voll betätigt wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-109",
+      "text": "Sie nutzen einen Anhänger mit Auflaufbremse. Was müssen Sie beachten?",
+      "number": "2.7.06-109",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- vorwärtsfahren kann", "- ankuppeln kann"],
+      "correctAnswers": ["- rückwärtsfahren kann"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-110",
+      "text": "Was kann aus einem zu späten Ausschalten der Geschwindigkeitsregelanlage (Tempomat) folgen?",
+      "number": "2.7.06-110",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Eine zu hohe Kurvengeschwindigkeit",
+        "Ein zu dichtes Auffahren",
+        "Eine Überschreitung der zulässigen Höchstgeschwindigkeit"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-111",
+      "text": "Wobei kann Sie eine Geschwindigkeitsregelanlage (Tempomat) unterstützen?",
+      "number": "2.7.06-111",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Beim Einhalten des Mindestabstands zum vorausfahrenden Fahrzeug"
+      ],
+      "correctAnswers": [
+        "Bei einer energiesparenden Fahrweise",
+        "Beim Einhalten einer gleichbleibenden Geschwindigkeit"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-112",
+      "text": "Was sollten Sie bei der Benutzung einer adaptiven Geschwindigkeitsregelanlage beachten?",
+      "number": "2.7.06-112",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Durch die Benutzung von Gas- oder Bremspedal kann das System jederzeit übersteuert werden",
+        "Durch starken Regen oder Schneefall kann das System beeinträchtigt werden",
+        "Auch bei längerer Nutzung des Systems muss ich stets aufmerksam bleiben"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-113",
+      "text": "Welche Funktion übernimmt eine adaptive Geschwindigkeitsregelanlage bei Kraftfahrzeugen?",
+      "number": "2.7.06-113",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- stellt den Abstand automatisch auf den vorgeschriebenen Sicherheitsabstand ein"
+      ],
+      "correctAnswers": [
+        "- bremst selbständig, wenn das vorausfahrende Fahrzeug langsamer fährt",
+        "- beschleunigt selbständig bis zu einer vorher eingestellten Geschwindigkeit"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-114",
+      "text": "Welchen Vorteil bringt die Nutzung einer Geschwindigkeitsregelanlage (Tempomat) für den Fahrer eines Kraftfahrzeugs?",
+      "number": "2.7.06-114",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- passt die Geschwindigkeit an die Verkehrsdichte an"
+      ],
+      "correctAnswers": [
+        "- hält eine eingestellte Fahrgeschwindigkeit auf ebener Fahrbahn konstant",
+        "- entlastet den Fahrer bei der Fahrzeugbedienung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-206",
+      "text": "Wann sollte der Geschwindigkeitsregler (Tempomat) benutzt werden?",
+      "number": "2.7.06-206",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Nur in Steigungen oder Gefällen",
+        "Nur bei hohen Fahrgeschwindigkeiten"
+      ],
+      "correctAnswers": [
+        "Wenn die Verkehrsverhältnisse eine gleich bleibende Geschwindigkeit zulassen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-208",
+      "text": "Was ist unter automatisch-lastabhängiger Bremskraftregelung (ALB) zu verstehen?",
+      "number": "2.7.06-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Blockieren der Räder wird bei einer Vollbremsung auf glatter Fahrbahn automatisch verhindert",
+        "Das Durchdrehen der Antriebsräder wird beim Anfahren verhindert"
+      ],
+      "correctAnswers": [
+        "Die Bremskraft wird entsprechend der Belastung der Achsen automatisch geregelt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-209",
+      "text": "Die Hinterräder eines mit einer automatisch-lastabhängigen Bremskraftregelung (ALB) ausgerüsteten Fahrzeugs, das unbeladen ist, blockieren bei jeder stärkeren Bremsung. Welche Ursache kann das haben?",
+      "number": "2.7.06-209",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Starkes Bremsfading"],
+      "correctAnswers": [
+        "Defekte oder falsch eingestellte ALB",
+        "Bruch mehrerer Federblätter an der Hinterachse"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-210",
+      "text": "Wie unterscheiden sich automatisch-lastabhängige Bremskraftregelung (ALB) und Antiblockiersystem (ABS) in ihrer Wirkung?",
+      "number": "2.7.06-210",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "ALB passt die Bremskraft automatisch dem Fahrbahnzustand an"
+      ],
+      "correctAnswers": [
+        "ALB passt die Bremskraft automatisch der Achslast an",
+        "ABS verhindert beim Bremsen unabhängig von Gewicht und Fahrbahnzustand automatisch das Blockieren der Räder"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-213",
+      "text": "Wodurch wird bei einer Federspeicher-Bremse die Bremsung bewirkt?",
+      "number": "2.7.06-213",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Durch die Betätigungskraft des Fahrers",
+        "Durch einströmende Druckluft"
+      ],
+      "correctAnswers": ["Durch Federkraft"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-214",
+      "text": "Wie funktioniert die Federspeicher-Bremse?",
+      "number": "2.7.06-214",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Beim Betätigen des Bremspedals im Stand strömt Druckluft in den Federspeicher-Bremszylinder. Dabei bewirkt die Druckluft die Bremsung",
+        "Beim Betätigen des Handbremsventils strömt Druckluft in den Federspeicher-Bremszylinder. Dabei bewirkt die Druckluft die Bremsung"
+      ],
+      "correctAnswers": [
+        "Beim Betätigen des Handbremsventils wird der Federspeicher-Bremszylinder entlüftet. Dabei bewirkt die Federkraft die Bremsung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-215",
+      "text": "Bei einem wegen Motorschaden liegen gebliebenen Kraftfahrzeug ist die Federspeicher-Bremse eingelegt. Der Luftvorrat ist erschöpft. Wie wirkt sich das aus?",
+      "number": "2.7.06-215",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Um das Fahrzeug abschleppen zu können, müssen die Federspeicher ausgebaut werden"
+      ],
+      "correctAnswers": [
+        "Um das Fahrzeug abschleppen zu können, muss die Federspeicher-Bremse mit der Hilfslöseeinrichtung gelöst werden",
+        "Die Federspeicher-Bremse reagiert nicht auf das Betätigen des Handbremsventils"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-216",
+      "text": "Welche Hilfslöseeinrichtungen für Federspeicher-Bremszylinder gibt es?",
+      "number": "2.7.06-216",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Automatische"],
+      "correctAnswers": ["Pneumatische", "Mechanische"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-217",
+      "text": "Sie fahren einen Bus, der mit einer Haltestellenbremse ausgerüstet ist. Wann dürfen Sie die Haltestellenbremse benutzen?",
+      "number": "2.7.06-217",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Beim Abbremsen in starkem Gefälle",
+        "Beim Abstellen des Busses anstatt der Feststellbremse"
+      ],
+      "correctAnswers": ["Während des Haltens an Haltestellen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-220",
+      "text": "Worauf ist bei einer Druckluftbremsanlage mit Lufttrockner zu achten?",
+      "number": "2.7.06-220",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Stand des Frostschutzmittels im Lufttrockner regelmäßig kontrollieren"
+      ],
+      "correctAnswers": [
+        "Lufttrockner regelmäßig warten",
+        "An den Entwässerungsventilen der Luftbehälter regelmäßig kontrollieren, ob der Lufttrockner richtig arbeitet"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-223",
+      "text": "Welche Aufgabe hat ein Vierkreisschutzventil in einer Druckluftbremsanlage?",
+      "number": "2.7.06-223",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Alle Kreise der Druckluftanlage vor zu hohem Druck zu schützen"
+      ],
+      "correctAnswers": [
+        "Die Druckluftversorgung der intakten Kreise sicherzustellen",
+        "Einen undicht gewordenen Kreis gegen die anderen Kreise abzuschließen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-228",
+      "text": "Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was passiert beim Ausfall des EBS?",
+      "number": "2.7.06-228",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Kraftfahrzeug lässt sich nur noch mit der Feststellbremse abbremsen"
+      ],
+      "correctAnswers": [
+        "Der Fehler im System wird mittels Kontrollleuchte angezeigt",
+        "Das Kraftfahrzeug wird mithilfe des pneumatischen Redundanzdrucks gebremst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-229",
+      "text": "Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was bewirkt das EBS?",
+      "number": "2.7.06-229",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Eine automatische Bremsung bei Hindernissen auf der Fahrbahn"
+      ],
+      "correctAnswers": [
+        "Eine optimale Abstimmung der Bremskräfte zwischen den einzelnen Radbremsen",
+        "Eine automatische Überwachung der Bremsanlage"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-230",
+      "text": "Was geschieht, wenn bei eingeschalteter Dauerbremse die Betriebsbremse betätigt wird?",
+      "number": "2.7.06-230",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Dauerbremse wird automatisch abgeschaltet",
+        "Die Räder der Antriebsachse(n) werden blockieren"
+      ],
+      "correctAnswers": [
+        "Die Räder der Antriebsachse(n) werden stärker abgebremst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-231",
+      "text": "Sie treten das Bremspedal Ihres Kraftfahrzeugs voll durch. Welcher maximale Druckabfall in der Bremsanlage ist bei vollständig gefülltem Luftbehälter unbedenklich?",
+      "number": "2.7.06-231",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["1,2 bar", "1,5 bar"],
+      "correctAnswers": ["0,7 bar"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-232",
+      "text": "Warum ist ein Druckabfall über 0,7 bar in der Druckluftanlage eines Kraftfahrzeugs problematisch, wenn Sie das Bremspedal einmal voll durchtreten (Abschaltdruck etwa 10 bis 13 bar)?",
+      "number": "2.7.06-232",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Weil in der Bremsanlage ein Vakuum entsteht"],
+      "correctAnswers": [
+        "Weil der Luftvorrat für weitere Bremsvorgänge zu schnell abfällt",
+        "Weil die Bremswirkung des Kraftfahrzeugs schlechter wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-233",
+      "text": "Welche Funktion hat eine automatisch-lastabhängige Bremskraftregelung (ALB)?",
+      "number": "2.7.06-233",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- dem Fahrbahnzustand angepasst",
+        "- der Fahrzeuggeschwindigkeit angepasst"
+      ],
+      "correctAnswers": ["- der tatsächlichen Fahrzeugmasse angepasst"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-234",
+      "text": "Welches Bremssystem an Kraftfahrzeugen arbeitet ohne nennenswerten Verschleiß?",
+      "number": "2.7.06-234",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Druckluftbremsanlage"],
+      "correctAnswers": ["Die Motorbremse", "Der Retarder"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-235",
+      "text": "Ihr Kraftfahrzeug verfügt über ein Elektronisches Bremssystem (EBS). Was bewirkt das EBS?",
+      "number": "2.7.06-235",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Die Bremsstabilität verbessert sich",
+        "Der Bremsweg verkürzt sich",
+        "Das Verschleißverhalten der Bremsbeläge wird optimiert"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-236",
+      "text": "Sie fahren ein beladenes Kraftfahrzeug mit manuellem Schaltgetriebe. Auf einem starken Gefälle nimmt die Geschwindigkeit trotz eingeschalteter Dauerbremse kontinuierlich zu. Was sollten Sie tun?",
+      "number": "2.7.06-236",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Ich schalte die Dauerbremse aus und nutze nur die Betriebsbremse",
+        "Ich bremse mit der Betriebsbremse ab und schalte in einen höheren Gang"
+      ],
+      "correctAnswers": [
+        "Ich bremse mit der Betriebsbremse ab und schalte in einen niedrigeren Gang"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-237",
+      "text": "Ihr Kraftfahrzeug ist mit einem Notbremsassistenten ausgerüstet. Was ist richtig?",
+      "number": "2.7.06-237",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- nur bei dichtem Verkehr aktiviert\nsein",
+        "- nie auf Autobahnen aktiviert sein"
+      ],
+      "correctAnswers": ["- immer aktiviert sein"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-238",
+      "text": "Ihr Kraftfahrzeug ist mit einem Notbremsassistenten ausgerüstet. Was ist richtig?",
+      "number": "2.7.06-238",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- nur in Gefahrensituationen aktiviert sein",
+        "- nur bei aufkommender Müdigkeit aktiviert sein"
+      ],
+      "correctAnswers": ["- immer aktiviert sein"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-239",
+      "text": "Warum sollten Sie die Dauerbremse (Retarder) in Ihrem Kraftfahrzeug nutzen?",
+      "number": "2.7.06-239",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- das Fahrzeug bis zum Stillstand abbremsen kann"],
+      "correctAnswers": [
+        "- verschleißfrei arbeitet",
+        "- die Betriebsbremsanlage entlasten kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-240",
+      "text": "Welchen Vorteil hat die Nutzung einer Adaptiven Geschwindigkeitsregelanlage (AGR) auf Autobahnen?",
+      "number": "2.7.06-240",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Unterschreitung des Sicherheitsabstands ist ausgeschlossen"
+      ],
+      "correctAnswers": [
+        "Die Wahrscheinlichkeit von Auffahrunfällen reduziert sich",
+        "Der Fahrer wird bei der Einhaltung des gewählten Abstands unterstützt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-241",
+      "text": "Sie fahren ein Kraftfahrzeug mit manuellem Schaltgetriebe. Welches Verhalten ist sinnvoll, damit eine Geschwindigkeitsregelanlage (Tempomat) zu einer kraftstoffsparenden Fahrweise beitragen kann?",
+      "number": "2.7.06-241",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Nutzung des Tempomaten bei Stop-and-go-Verkehr",
+        "Das rechtzeitige Beschleunigen an langen Steigungen"
+      ],
+      "correctAnswers": ["Das Auswählen des richtigen Ganges"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-303",
+      "text": "Wie wirkt es sich bei einem Lastzug aus, wenn die Federspeicher-Bremse des Zugfahrzeugs eingelegt wird?",
+      "number": "2.7.06-303",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Anhänger wird mechanisch gebremst"],
+      "correctAnswers": [
+        "Der Anhänger wird normalerweise mit Druckluft durch seine Betriebsbremsanlage gebremst",
+        "Das Zugfahrzeug wird mechanisch gebremst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-306",
+      "text": "In welchen Fällen müssen Sie das Löseventil betätigen?",
+      "number": "2.7.06-306",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Vor Antritt der Fahrt, damit die Luftbehälter des Anhängers aufgefüllt werden können",
+        "Vor Antritt der Fahrt, damit die Feststellbremse des Anhängers gelöst wird"
+      ],
+      "correctAnswers": [
+        "Wenn der Anhänger bei gefüllten Luftbehältern und nicht angeschlossenen Bremsleitungen rangiert werden soll"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-310",
+      "text": "Was kann eintreten, wenn ein Lastzug in einem langen Gefälle ständig nur mit der Betriebsbremse abgebremst wird?",
+      "number": "2.7.06-310",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Luftvorrat der Bremsanlage wird nicht ergänzt",
+        "Die Wirkung des Retarders lässt nach"
+      ],
+      "correctAnswers": [
+        "Die Radbremsen werden so stark erhitzt, dass die Bremswirkung gefährlich nachlässt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-313",
+      "text": "Sie stellen einen Anhänger mit Druckluft-Bremsanlage kurzzeitig ab. Wie können Sie die Betriebsbremse des Anhängers lösen?",
+      "number": "2.7.06-313",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Durch Belüften der Bremsleitung",
+        "Durch Lösen der Feststellbremse"
+      ],
+      "correctAnswers": ["Durch Betätigen des Löseventils"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-314",
+      "text": "Bei einem Lastzug ist nur das Zugfahrzeug mit einem Automatischen Blockierverhinderer (ABV) ausgerüstet. Wie kann sich das bei einer Vollbremsung auf nasser Fahrbahn auswirken?",
+      "number": "2.7.06-314",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- der Zug sicher gestreckt werden"],
+      "correctAnswers": [
+        "- sich der Bremsweg verlängern",
+        "- der Anhänger ausbrechen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-315",
+      "text": "Die Verbindung des Elektronischen Bremssystems (EBS) zum Anhänger ist unterbrochen. Welche Auswirkung kann dies beim Bremsen für den Anhänger haben?",
+      "number": "2.7.06-315",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Bremsleuchten funktionieren nicht mehr"],
+      "correctAnswers": [
+        "Der Automatische Blockierverhinderer (ABV) kann abgeschaltet sein",
+        "Der Anhänger wird mithilfe des pneumatischen Redundanzdrucks gebremst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-317",
+      "text": "Welche Auswirkung hat der Abriss des Bremsschlauchs mit gelbem Kupplungskopf zwischen Zugfahrzeug und Anhänger beim Bremsen?",
+      "number": "2.7.06-317",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Betriebsbremsanlage des Anhängers fällt aus"],
+      "correctAnswers": [
+        "Das Vierkreisschutzventil sichert den Sicherungsdruck für die Betriebsbremsanlage des Zugfahrzeugs",
+        "Die Vorratsleitung wird automatisch entlüftet und der Anhänger wird gebremst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-318",
+      "text": "Ein Kolben der druckluftbetätigten Bremszylinder Ihres Anhängers fährt beim Bremsen bis zum Anschlag aus. Welche Gefahr kann hieraus entstehen?",
+      "number": "2.7.06-318",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Bremskraftregler ist in seiner Funktion beeinträchtigt",
+        "Es kommt zur Überbremsung des Anhängers"
+      ],
+      "correctAnswers": ["Die Bremswirkung des Anhängers vermindert sich"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-319",
+      "text": "Sie fahren ein Zugfahrzeug mit Druckluftbremsanlage. Die Bremsleitung am rechten Vorderrad bricht. Wie wirkt sich das im Anhängerbetrieb aus?",
+      "number": "2.7.06-319",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Anhänger wird sofort selbsttätig gebremst"],
+      "correctAnswers": [
+        "Beim Anhänger bleibt die Betriebsbremse voll funktionsfähig",
+        "Die Bremsleistung des Zugfahrzeugs ist eingeschränkt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-320",
+      "text": "Sie fahren einen Lkw mit Anhänger und durchgehender Druckluftbremsanlage. Welche Funktion übernimmt dabei die Kontrollstellung des Handbremsventils?",
+      "number": "2.7.06-320",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Betriebsbremse des Anhängers wird betätigt"],
+      "correctAnswers": [
+        "Das Zugfahrzeug wird über die Federspeicherbremse gebremst",
+        "Die Betriebsbremse des Anhängers wird gelöst"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-402",
+      "text": "Sie möchten eine landwirtschaftliche Zugmaschine mit zwei druckluftgebremsten Anhängern fahren. Was müssen Sie hinsichtlich des handbetätigten Bremskraftreglers am jeweiligen Anhänger beachten?",
+      "number": "2.7.06-402",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Reglerstellung der tatsächlichen Gesamtmasse der Zugmaschine anpassen",
+        "Die Reglerstellung der zulässigen Zuggesamtmasse anpassen"
+      ],
+      "correctAnswers": [
+        "Die Reglerstellung der Beladung des Anhängers anpassen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-405",
+      "text": "Sie möchten mit einem Fahrzeug mit auflaufgebremstem Anhänger fahren. Was müssen Sie vor Fahrtantritt überprüfen?",
+      "number": "2.7.06-405",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "- Verriegelung der Verbindungseinrichtung",
+        "- Funktion der Beleuchtungsanlage",
+        "- Anbringung des Abreiß-Bremsseils"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.06-406",
+      "text": "Was müssen Sie regelmäßig am Luftpresser kontrollieren?",
+      "number": "2.7.06-406",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Den Drehzahlregler"],
+      "correctAnswers": ["Den Keilriemen", "Den Anschluss der Druckleitung"]
+    }
+  ]
+}

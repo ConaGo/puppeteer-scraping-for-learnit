@@ -1,0 +1,159 @@
+{
+  "link": "/Fragenkatalog/2.7.10",
+  "text": "Ausrüstung von Fahrzeugen",
+  "number": "2.7.10",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.10-001",
+      "text": "Was muss an einem Mofa ständig betriebsbereit sein?",
+      "number": "2.7.10-001",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Rückstrahler",
+        "Schlussleuchte",
+        "Scheinwerfer für Dauerabblendlicht"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-003",
+      "text": "Ein Bus hat 32 Fahrgastplätze. Wie viele Verbandkästen müssen mindestens vorhanden sein?",
+      "number": "2.7.10-003",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["3 Verbandkästen", "1 Verbandkasten"],
+      "correctAnswers": ["2 Verbandkästen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-103",
+      "text": "Sie fahren einen Bus im Linienverkehr. Wo ist die Zahl der zugelassenen Sitz- und Stehplätze angegeben?",
+      "number": "2.7.10-103",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Auf dem Typenschild"],
+      "correctAnswers": [
+        "In der Zulassungsbescheinigung Teil I (Fahrzeugschein)",
+        "An einer gut sichtbaren Stelle im Bus"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-203",
+      "text": "Welche Ausrüstungsgegenstände sind in einem Bus bei ungünstigen Straßen- und Witterungsverhältnissen mitzuführen?",
+      "number": "2.7.10-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Tragbare Seilwinde"],
+      "correctAnswers": [
+        "Schneeketten, Spaten und Hacke",
+        "Abschleppseil oder -stange"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-204",
+      "text": "Ihr Bus hat eine zulässige Gesamtmasse von 4 t. Was müssen Sie mitführen?",
+      "number": "2.7.10-204",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["50 Liter Reservekraftstoff in Kanistern"],
+      "correctAnswers": [
+        "Ein Warndreieck und eine Warnleuchte",
+        "Eine leistungsfähige Taschenlampe"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-206",
+      "text": "Welche Anforderungen müssen Feuerlöscher erfüllen, die in Bussen mitzuführen sind?",
+      "number": "2.7.10-206",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["4 kg Füllmasse (Löschmittel)"],
+      "correctAnswers": [
+        "Mindestens 6 kg Füllmasse (Löschmittel)",
+        "Zulassung für Brandklassen A, B, C"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-207",
+      "text": "In welchen Zeitabständen müssen Feuerlöscher auf Gebrauchsfähigkeit geprüft werden?",
+      "number": "2.7.10-207",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Alle 18 Monate", "Alle 24 Monate"],
+      "correctAnswers": ["Alle 12 Monate"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-210",
+      "text": "Was muss in Bussen deutlich gekennzeichnet sein?",
+      "number": "2.7.10-210",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Unterbringung des Bordwerkzeugs"],
+      "correctAnswers": [
+        "Die Sitzplätze für Schwerbehinderte im Linienverkehr",
+        "Die Unterbringung der Verbandkästen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-211",
+      "text": "Was müssen Sie vor Fahrtbeginn an den Notausstiegen überprüfen?",
+      "number": "2.7.10-211",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ob sie vorschriftsmäßig beleuchtet sind"],
+      "correctAnswers": [
+        "Ob die zum Öffnen erforderlichen Einrichtungen vorhanden sind",
+        "Ob sie nicht durch Gepäck oder andere Gegenstände zugestellt sind"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-212",
+      "text": "Ein Bus hat 15 Fahrgastplätze. Wie viel normgerechte Verbandkästen müssen mindestens vorhanden sein?",
+      "number": "2.7.10-212",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Bis 16 Fahrgastplätze ist kein Verbandkasten erforderlich",
+        ""
+      ],
+      "correctAnswers": ["1 Verbandkasten"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-213",
+      "text": "Wie viele betriebsfertige Feuerlöscher müssen in einem Bus (Eindecker) mindestens mitgeführt werden?",
+      "number": "2.7.10-213",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ab 12 Fahrgastplätzen 2 Feuerlöscher", ""],
+      "correctAnswers": ["Insgesamt 1 Feuerlöscher"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-214",
+      "text": "Wo müssen sich vorgeschriebene Feuerlöscher in einem Doppeldeckbus befinden?",
+      "number": "2.7.10-214",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Ein weiterer unten vor dem hinteren Treppenaufgang"
+      ],
+      "correctAnswers": [
+        "Ein weiterer auf der oberen Fahrgastebene",
+        "In der Nähe des Fahrersitzes"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.10-215",
+      "text": "Wo können Sie die Angabe zur Prüffrist eines im Fahrzeug mitgeführten Feuerlöschers finden?",
+      "number": "2.7.10-215",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf dem Klebesiegel in der Zulassungsbescheinigung Teil I"
+      ],
+      "correctAnswers": [
+        "Auf der Prüfplakette am Feuerlöscher",
+        "Auf dem Instandhaltungsnachweis des Feuerlöschers"
+      ]
+    }
+  ]
+}

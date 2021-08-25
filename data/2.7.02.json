@@ -1,0 +1,711 @@
+{
+  "link": "/Fragenkatalog/2.7.02",
+  "text": "Mängelerkennung, Lokalisierung von Störungen",
+  "number": "2.7.02",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.02-001",
+      "text": "Sie stellen am Lenkkopflager Spiel fest. Was ist zu tun?",
+      "number": "2.7.02-001",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Spiel kann bleiben, da sich der Lenker leichter bewegen lässt",
+        ""
+      ],
+      "correctAnswers": ["Spiel beseitigen lassen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-002",
+      "text": "Beim Bewegen des Lenkers stellen Sie einen Rastpunkt im Lenkkopflager fest. Was ist zu tun?",
+      "number": "2.7.02-002",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Spiel im Lenkkopflager vergrößern, damit die Spursicherheit verbessert wird",
+        ""
+      ],
+      "correctAnswers": ["Rastpunkt beseitigen lassen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-003",
+      "text": "Wozu kann Spiel im Lenkkopflager führen?",
+      "number": "2.7.02-003",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Spursicherheit wird verbessert",
+        "Das Fahrverhalten wird verbessert"
+      ],
+      "correctAnswers": ["Das Fahrverhalten kann negativ beeinflusst werden"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-004",
+      "text": "Wie kann sich ein defekter Lenkungsdämpfer auf das Fahrverhalten auswirken?",
+      "number": "2.7.02-004",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Fahrsicherheit wird nur bei geringer Fahrgeschwindigkeit verschlechtert"
+      ],
+      "correctAnswers": [
+        "Die Fahrsicherheit kann sich verschlechtern",
+        "Ein defekter Lenkungsdämpfer kann zum Flattern des Lenkers führen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-005",
+      "text": "Was kann das Fahrverhalten entscheidend verschlechtern?",
+      "number": "2.7.02-005",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Defekter Lenkungsdämpfer",
+        "Ausgeschlagenes Lenkkopflager",
+        "Spiel im Lenkkopflager"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-006",
+      "text": "Sie stellen an Ihrem Motorrad ein schlechtes Spurverhalten fest. Woran kann das liegen?",
+      "number": "2.7.02-006",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [""],
+      "correctAnswers": [
+        "Radlagerspiel zu groß",
+        "Hinterradschwinge ausgeschlagen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-007",
+      "text": "Ihr Motorrad fährt nicht mehr spurtreu. Was kann defekt sein?",
+      "number": "2.7.02-007",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Hinterradbremse defekt"],
+      "correctAnswers": ["Rahmen verbogen", "Gabel verbogen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-008",
+      "text": "Beim plötzlichen Gaswegnehmen ohne auszukuppeln fährt Ihr Motorrad nicht mehr spurtreu. Was kann die Ursache hierfür sein?",
+      "number": "2.7.02-008",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Leerlaufdrehzahl zu hoch"],
+      "correctAnswers": [
+        "Spiel der Schwingenlagerung zu groß",
+        "Spiel der Hinterradlagerung zu groß"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-010",
+      "text": "Sie stellen fest, dass der Hebelweg der hydraulischen Vorderradbremse Ihres Motorrades wesentlich länger geworden ist. Was müssen Sie tun?",
+      "number": "2.7.02-010",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Umgehend Bremsflüssigkeit nachfüllen",
+        "Bis zur nächsten Inspektion nur Hinterradbremse benutzen"
+      ],
+      "correctAnswers": ["Vorderradbremse instand setzen lassen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-012",
+      "text": "Die Spiegelhalterung an Ihrem Motorrad ist lose. Was tun Sie?",
+      "number": "2.7.02-012",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "Spiegel abbauen"],
+      "correctAnswers": ["Spiegelhalterung befestigen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-015",
+      "text": "Was können Sie am Reifen kontrollieren?",
+      "number": "2.7.02-015",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Das Alter des Reifens",
+        "Die Profiltiefe",
+        "Die gleichmäßige Abnutzung des Profils"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-017",
+      "text": "Gleich nach dem Losfahren machen Sie eine Bremsprobe. Warum?",
+      "number": "2.7.02-017",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "Um die Bremsanlage schnell zu entlüften"],
+      "correctAnswers": ["Um die Wirkung der Betriebsbremse zu prüfen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-020",
+      "text": "In welchen Fällen ist eine Bremsprobe unerlässlich?",
+      "number": "2.7.02-020",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Nach jedem Motorölwechsel"],
+      "correctAnswers": [
+        "Nach längerer Standzeit eines Fahrzeugs",
+        "Bei Übernahme eines anderen Fahrzeugs"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-021",
+      "text": "Worauf müssen Sie in regelmäßigen Abständen die Reifen Ihres Fahrzeugs überprüfen?",
+      "number": "2.7.02-021",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Auf äußere Beschädigungen",
+        "Auf richtigen Luftdruck",
+        "Auf ausreichende Profiltiefe"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-023",
+      "text": "Sie sind mit einem Reifen heftig gegen ein hartes Hindernis gefahren. Was müssen Sie tun?",
+      "number": "2.7.02-023",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "Die Radschrauben nachziehen"],
+      "correctAnswers": ["Reifen und Felge umgehend überprüfen lassen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-024",
+      "text": "Was geschieht, wenn Sie mit wesentlich zu niedrigem Reifenluftdruck fahren?",
+      "number": "2.7.02-024",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Reifenverschleiß nimmt ab"],
+      "correctAnswers": [
+        "Die Reifen erhitzen sich übermäßig",
+        "Die Fahrstabilität nimmt ab"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-025",
+      "text": "Was kann die Ursache für den Ausfall eines Schlusslichtes sein?",
+      "number": "2.7.02-025",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Anlasser defekt"],
+      "correctAnswers": ["Glühlampe defekt", "Sicherung durchgebrannt"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-026",
+      "text": "Die Kontrollleuchte des Blinkers blinkt erheblich schneller als üblich. Welche Ursache kann vorliegen?",
+      "number": "2.7.02-026",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "Der Blinkerschalter ist defekt"],
+      "correctAnswers": ["Eine Glühlampe ist defekt"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-027",
+      "text": "Warum muss eine durchgerostete Auspuffanlage unverzüglich repariert werden?",
+      "number": "2.7.02-027",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Weil der Motor sonst zu heiß wird"],
+      "correctAnswers": [
+        "Wegen der Lärmbelästigung",
+        "Weil Teile der Auspuffanlage auf die Fahrbahn fallen können"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-028",
+      "text": "Das Auspuffgeräusch ist plötzlich lauter als normal. Was tun Sie?",
+      "number": "2.7.02-028",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Motor-Luftfilter erneuern",
+        "Nichts, weil niemand gefährdet wird"
+      ],
+      "correctAnswers": ["Auspuffanlage überprüfen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-029",
+      "text": "Woran kann es liegen, wenn die Hupe nicht funktioniert?",
+      "number": "2.7.02-029",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Anlasser defekt"],
+      "correctAnswers": [
+        "Sicherung durchgebrannt",
+        "Betätigungseinrichtung der Hupe defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-030",
+      "text": "Beim Bremsen bemerken Sie, dass Ihr Fahrzeug nach rechts zieht. Wie verhalten Sie sich?",
+      "number": "2.7.02-030",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Ich brauche das Problem nicht beheben, solange ich es durch Gegenlenken ausgleichen kann",
+        "Ich öle die Bremsbeläge"
+      ],
+      "correctAnswers": ["Ich suche eine Fachwerkstatt auf"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-031",
+      "text": "Was können Ursachen für einen zu großen Bremszylinderhub sein?",
+      "number": "2.7.02-031",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zu hoher Vorratsdruck"],
+      "correctAnswers": [
+        "Ausgeschlagene Lagerungen der Übertragungseinrichtungen",
+        "Ein Defekt des automatischen Gestängestellers"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-032",
+      "text": "Welche Profiltiefe müssen alle Reifen Ihres Fahrzeugs am Hauptprofil mindestens aufweisen?",
+      "number": "2.7.02-032",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": []
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-033",
+      "text": "Das Bremslicht Ihres Fahrzeugs funktioniert nicht. Was kann die Ursache sein?",
+      "number": "2.7.02-033",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Füllstand der Bremsflüssigkeit ist zu gering"],
+      "correctAnswers": [
+        "Das Leuchtmittel ist defekt",
+        "Die entsprechende Sicherung ist defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-034",
+      "text": "Wie müssen Sie sich verhalten, wenn nach dem Motorstart die Öldruckkontrollleuchte nicht erlischt?",
+      "number": "2.7.02-034",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ich fahre bis zum nächsten Ölwechsel weiter"],
+      "correctAnswers": [
+        "Ich kontrolliere den Motorölstand",
+        "Ich stelle den Motor umgehend ab"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-035",
+      "text": "Wann muss die Bremsanlage an Ihrem Kraftrad umgehend überprüft werden?",
+      "number": "2.7.02-035",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Wenn bei der Betätigung des Bremshebels kein Druckpunkt vorhanden ist",
+        "Wenn während der Fahrt die Bremskontrollleuchte leuchtet",
+        "Wenn der Bremsflüssigkeitsstand im Vorratsbehälter deutlich abgesunken ist"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-103",
+      "text": "Das Lenkrad lässt sich schwerer als normal drehen. Was kann die Ursache dafür sein?",
+      "number": "2.7.02-103",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Reifenluftdruck zu hoch"],
+      "correctAnswers": ["Lenkgetriebe defekt", "Lenkhilfe ausgefallen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-107",
+      "text": "Die Bremse an Ihrem Pkw wirkt stark einseitig. Welche Folgen können beim Bremsen eintreten?",
+      "number": "2.7.02-107",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ausfall des Antiblockiersystems (ABS)"],
+      "correctAnswers": [
+        "Längerer Bremsweg",
+        "Seitliches Ausbrechen des Fahrzeugs"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-109",
+      "text": "Das Bremspedal lässt sich bis zum Fahrzeugboden durchtreten. Erst bei mehrmaliger Betätigung wird der Pedalweg kürzer. Was müssen Sie tun?",
+      "number": "2.7.02-109",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Bremsflüssigkeit nachfüllen genügt"],
+      "correctAnswers": [
+        "Fahrzeug sofort abstellen",
+        "Bremse reparieren lassen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-112",
+      "text": "Die Bremsleuchten sind ohne Funktion. Was tun Sie?",
+      "number": "2.7.02-112",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "Bremsflüssigkeit erneuern"],
+      "correctAnswers": ["Unverzüglich reparieren"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-113",
+      "text": "Woran können Sie während der Fahrt eine defekte Blinkleuchte erkennen?",
+      "number": "2.7.02-113",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Eine defekte Blinkleuchte ist während der Fahrt nicht erkennbar",
+        ""
+      ],
+      "correctAnswers": [
+        "Die Kontrollleuchte für den Blinker blinkt schneller als üblich"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-114",
+      "text": "Sie fahren bei Dunkelheit mit Abblendlicht. Entgegenkommende blenden auf und ab. Was kann das bedeuten?",
+      "number": "2.7.02-114",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die anderen fordern Sie auf, Fernlicht einzuschalten"
+      ],
+      "correctAnswers": [
+        "Die Leuchtweitenregelung an Ihrem Fahrzeug ist nicht dem Beladungszustand angepasst",
+        "Die Scheinwerfer Ihres Fahrzeuges können falsch eingestellt sein und blenden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-115",
+      "text": "Das Spiegelglas des linken Außenspiegels ist gesprungen. Was tun Sie?",
+      "number": "2.7.02-115",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "",
+        "Spiegelglas nicht erneuern, da Beobachtung nach hinten noch teilweise möglich ist"
+      ],
+      "correctAnswers": ["Spiegelglas erneuern"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-117",
+      "text": "Die Scheibenwaschanlage funktioniert nicht. Woran kann das liegen?",
+      "number": "2.7.02-117",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Sicherung defekt",
+        "Kein Wasser im Vorratsbehälter",
+        "Düsen verstopft"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-118",
+      "text": "Aus den Düsen der Scheibenwaschanlage kommt zu wenig Wasser. Was kann die Ursache dafür sein?",
+      "number": "2.7.02-118",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zu viel Wasser im Vorratsbehälter"],
+      "correctAnswers": [
+        "Düsen sind teilweise verstopft",
+        "Wasserförderpumpe defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-119",
+      "text": "Woran kann es liegen, wenn die Scheibenwischer nicht mehr sauber wischen?",
+      "number": "2.7.02-119",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Scheibenheizung ist defekt"],
+      "correctAnswers": [
+        "Ölfilm auf der Scheibe",
+        "Scheibenwischerblätter sind abgenutzt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-120",
+      "text": "Die Scheibenwischer an Ihrem Pkw funktionieren nicht. Was kann die Ursache dafür sein?",
+      "number": "2.7.02-120",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zu viel Wasser in der Scheibenwaschanlage"],
+      "correctAnswers": [
+        "Sicherung durchgebrannt",
+        "Scheibenwischermotor defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-121",
+      "text": "Das Schloss eines Sicherheitsgurtes schließt nicht. Was tun Sie?",
+      "number": "2.7.02-121",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Mit geringer Geschwindigkeit fahren",
+        "Nichts, weil der Sitz mit Airbag ausgerüstet ist"
+      ],
+      "correctAnswers": ["Schloss instand setzen lassen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-122",
+      "text": "Der Sicherheitsgurt rollt sich nicht mehr automatisch auf. Woran kann das liegen?",
+      "number": "2.7.02-122",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Sitzverstellung ist defekt"],
+      "correctAnswers": [
+        "Sicherheitsgurt ist verdreht",
+        "Automatische Aufrollvorrichtung ist defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-123",
+      "text": "In Ihrem Pkw flattert das Lenkrad während der Fahrt. Woran kann das liegen?",
+      "number": "2.7.02-123",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Federung ist schadhaft",
+        "Räder haben Unwucht",
+        "Stoßdämpfer sind defekt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-124",
+      "text": "Woran kann es liegen, wenn sich an der Vorderachse ein Reifen einseitig stärker abnutzt?",
+      "number": "2.7.02-124",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [""],
+      "correctAnswers": [
+        "Spureinstellung nicht in Ordnung",
+        "Achslenker verbogen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-125",
+      "text": "Was kann die Ursache für eine übermäßige Abnutzung der Reifen sein?",
+      "number": "2.7.02-125",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Anbau eines Frontspoilers"],
+      "correctAnswers": ["Falscher Reifenluftdruck", "Schaden an der Federung"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-126",
+      "text": "Während der Fahrt zieht Ihr Fahrzeug nach rechts. Woran kann das liegen?",
+      "number": "2.7.02-126",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Lenkungsdämpfer lose"],
+      "correctAnswers": [
+        "Radeinstellung nicht in Ordnung",
+        "Achslenker verbogen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-127",
+      "text": "Welche Auswirkung hat das Lenken im Stand für Ihr Fahrzeug?",
+      "number": "2.7.02-127",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Lenkung wird leichtgängiger"],
+      "correctAnswers": [
+        "An der Lauffläche des Reifens können Beschädigungen entstehen",
+        "Die Mechanik der Vorderachse wird stark belastet"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-128",
+      "text": "Wann sollten Sie bei Ihrem Pkw die Bremsanlage überprüfen lassen?",
+      "number": "2.7.02-128",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Wenn mit meinem Pkw eine Gefahrbremsung durchgeführt wurde"
+      ],
+      "correctAnswers": [
+        "Wenn mein Pkw bei einer Bremsung nicht in der Spur bleibt",
+        "Wenn die Bremskontrollleuchte während der Fahrt aufleuchtet"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-202",
+      "text": "Woran kann es liegen, wenn die Fülldauer der Druckluftbremsanlage länger als normal ist?",
+      "number": "2.7.02-202",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["In den Luftbehältern befindet sich zu viel Wasser"],
+      "correctAnswers": [
+        "Luftbehälter oder Anschlüsse sind undicht",
+        "Die Förderleistung des Luftpressers ist zu gering"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-203",
+      "text": "Die Druckwarneinrichtung der Bremsanlage spricht während der Fahrt an. Was bedeutet dies?",
+      "number": "2.7.02-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ein Bremszylinder ist undicht"],
+      "correctAnswers": [
+        "Die Bremsanlage ist wahrscheinlich defekt",
+        "Der Vorratsdruck ist nicht mehr ausreichend"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-204",
+      "text": "Was kann bei einer Bremsanlage mit Mehrkreisschutzventil Ursache dafür sein, dass der Luftpresser ununterbrochen Druckluft fördert?",
+      "number": "2.7.02-204",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Das Mehrkreisschutzventil schaltet nicht ab"],
+      "correctAnswers": [
+        "Ein am Mehrkreisschutzventil angeschlossener Druckluftkreis ist undicht geworden",
+        "Im Luftpresser ist der Kolbenverschleiß so weit fortgeschritten, dass der Abschaltdruck nicht mehr erreicht wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-211",
+      "text": "Welche Auswirkungen kann ein stark undichter Luftfederbalg für die Verkehrssicherheit haben?",
+      "number": "2.7.02-211",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Vorratsleitung des vorderen Bremskreises verliert Druckluft"
+      ],
+      "correctAnswers": [
+        "Das Fahrzeug neigt sich einseitig",
+        "Die Bremswirkung wird durch einen falschen Steuerdruck der automatisch-lastabhängigen Bremskraftregelung (ALB) beeinträchtigt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-213",
+      "text": "Bei Ihrem Kraftfahrzeug ist die Bremsleitung an einem Radbremszylinder stark undicht. Woran können Sie diesen Schaden erkennen?",
+      "number": "2.7.02-213",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "An der Geräuschentwicklung aufgrund entweichender Druckluft",
+        "An der Anzeige der Druckwarneinrichtung",
+        "An einer geringeren Bremswirkung während der Fahrt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-214",
+      "text": "Welche Auswirkung kann die Beschädigung wesentlicher Bauteile der Achsfederung auf die Verkehrssicherheit haben?",
+      "number": "2.7.02-214",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Es kann zu Auswaschungen an den Reifen kommen",
+        "Es kann zu weiteren Beschädigungen am Fahrzeug kommen",
+        "Das Fahrverhalten kann beeinträchtigt werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-215",
+      "text": "Welche Ursache kann für eine zu geringe Förderleistung des Luftpressers infrage kommen?",
+      "number": "2.7.02-215",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Wasser in den Vorratsbehältern"],
+      "correctAnswers": [
+        "Verschmutzung des Ansaugluftfilters",
+        "Schadhafter Luftpresser"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-216",
+      "text": "Wie sollten Sie sich verhalten, wenn während der Fahrt die rote Warnanzeige für die Motortemperatur aufleuchtet?",
+      "number": "2.7.02-216",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Mit erhöhter Motordrehzahl für eine bessere Kühlung langsam weiterfahren",
+        "In niedrigem Gang bis zur nächsten geplanten Fahrtunterbrechung weiterfahren"
+      ],
+      "correctAnswers": [
+        "Schnellstmöglich an geeigneter Stelle anhalten und gemäß Herstellervorgaben verfahren"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-302",
+      "text": "Welche Auswirkung hat ein Bruch der Vorratsleitung zum Anhänger bei einer Zweileitungs-Bremsanlage?",
+      "number": "2.7.02-302",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- löst beim Zugfahrzeug automatisch eine Bremsung aus"
+      ],
+      "correctAnswers": [
+        "- schließt den Anhängerluftvorrat gegen die unterbrochene Vorratsleitung ab",
+        "- leitet eine Bremsung des Anhängers ein"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-303",
+      "text": "Woran können Sie nach dem Lösen der Feststellbremse erkennen, ob das Anhängerbremsventil arbeitet (Luftbehälter gefüllt)?",
+      "number": "2.7.02-303",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Beim Abkuppeln der Bremsleitung (gelber Kupplungskopf) gehen die Kolben der Bremszylinder des Anhängers ohne Betätigung des Bremspedals in Bremsstellung"
+      ],
+      "correctAnswers": [
+        "Sind Vorrats- und Bremsleitung angekuppelt, gehen die Kolben der Bremszylinder des Anhängers beim Betätigen des Bremspedals in Bremsstellung",
+        "Beim Abkuppeln der Vorratsleitung (roter Kupplungskopf) gehen die Kolben der Bremszylinder des Anhängers in Bremsstellung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-304",
+      "text": "Was geschieht, wenn während der Fahrt bei einer Zweikreis-Druckluftbremsanlage ein Kreis der Betriebsbremse undicht wird?",
+      "number": "2.7.02-304",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Vierkreisschutzventil versorgt den undichten Kreis mit zusätzlicher Luft zum Ausgleich des Druckverlustes"
+      ],
+      "correctAnswers": [
+        "Das Vierkreisschutzventil sichert die intakten Kreise gegen einen Druckabfall unterhalb des Sicherungsdrucks ab",
+        "Der Luftvorrat des undichten Kreises entweicht und die Bremswirkung kann erheblich nachlassen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-305",
+      "text": "Die elektrischen Verbindungen zu Ihrem Zugfahrzeug sind unterbrochen. Welche Einrichtung am Anhänger ist somit nicht betriebsfähig?",
+      "number": "2.7.02-305",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Antriebs-Schlupfregelung (ASR)"],
+      "correctAnswers": [
+        "Der Automatische Blockierverhinderer (ABV)",
+        "Das Elektronische Bremssystem (EBS)"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.02-306",
+      "text": "Welche Einrichtung am Anhänger ist ohne Funktion, wenn die elektrische Verbindung zum Zugfahrzeug fehlt oder unterbrochen ist?",
+      "number": "2.7.02-306",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Antriebs-Schlupfregelung (ASR)"],
+      "correctAnswers": [
+        "Die Beleuchtung",
+        "Das Elektronische Bremssystem (EBS)"
+      ]
+    }
+  ]
+}

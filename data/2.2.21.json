@@ -1,0 +1,313 @@
+{
+  "link": "/Fragenkatalog/2.2.21",
+  "text": "Personenbeförderung",
+  "number": "2.2.21",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.2.21-002",
+      "text": "Sie wollen auf Ihrem Motorrad eine Person mitnehmen. Worauf sollten Sie vor Beginn der Fahrt achten?",
+      "number": "2.2.21-002",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Unerfahrene Mitfahrer erst vorsichtig und behutsam an das Fahren auf dem Motorrad heranführen",
+        "Auf Absprachen über das Verhalten während der Fahrt",
+        "Auf die Benutzung des vorgeschriebenen Helms durch den Mitfahrer"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-004",
+      "text": "Worauf müssen Sie Ihren Beifahrer vor der Fahrt hinweisen?",
+      "number": "2.2.21-004",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- sich in Kurven immer nach außen legen muss"],
+      "correctAnswers": [
+        "- die Füße auf die Fußstützen stellen muss",
+        "- einen Schutzhelm tragen muss"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-006",
+      "text": "Sie wollen auf einem Mofa ein fünfjähriges Kind mitnehmen. Welche Sitzgelegenheiten sind dafür zulässig?",
+      "number": "2.2.21-006",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Tank mit aufgeschnalltem Polster",
+        "Gepäckträger mit Kissen"
+      ],
+      "correctAnswers": ["Besonderer Kindersitz mit Fußstützen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-007",
+      "text": "Warum ist es gefährlich, wenn Personen auf den hinteren Sitzen die Sicherheitsgurte nicht benutzen?",
+      "number": "2.2.21-007",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "- kann es schon bei niedrigen Geschwindigkeiten zu Verletzungen kommen",
+        "- kann es zur Gefährdung der Personen auf den vorderen Sitzen kommen",
+        "- können diese Personen aus dem Fahrzeug geschleudert werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-008",
+      "text": "Worauf sollten Sie achten, wenn Sie eine weitere Person auf dem Motorrad mitnehmen?",
+      "number": "2.2.21-008",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Das Fahrwerk sollte entsprechend eingestellt sein",
+        "Auch die weitere Person sollte Motorradschutzkleidung tragen",
+        "Der Reifenfülldruck sollte angepasst sein"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-009",
+      "text": "Worauf müssen Sie achten, wenn Sie einen Sozius mitnehmen möchten?",
+      "number": "2.2.21-009",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Das Kraftrad muss für 2 Personen zugelassen sein",
+        "Der Sozius muss zum Mitfahren geeignet sein",
+        "Ein mitfahrendes Kind über 7 Jahre muss die vorhandenen Fußstützen und Festhaltemöglichkeiten nutzen können"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-010",
+      "text": "Welche Auswirkung hat die Mitnahme eines Sozius auf das Fahrverhalten eines Kraftrads?",
+      "number": "2.2.21-010",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Empfindlichkeit gegenüber Seitenwind nimmt ab"],
+      "correctAnswers": [
+        "Das Verhalten beim Bremsen ändert sich",
+        "Das Kraftrad ist schwerer zu stabilisieren"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-102",
+      "text": "Sie sind mit einem Lkw mit Anhänger unterwegs und wollen gefälligkeitshalber eine Person mitnehmen. Wo dürfen Sie diese unterbringen?",
+      "number": "2.2.21-102",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf der Ladefläche des Anhängers",
+        "Auf der Ladefläche des Lkw"
+      ],
+      "correctAnswers": ["Im Führerhaus"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-103",
+      "text": "Wofür müssen Sie vor Antritt einer Fahrt mit Ihrem Pkw sorgen?",
+      "number": "2.2.21-103",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Dass Sie nach hinten ausreichende Sicht haben",
+        "Dass keine Gegenstände (z. B. Verbandkasten, Autoatlas, Fotoapparat) lose auf der hinteren Ablage liegen",
+        "Dass auch die Mitfahrer die vorhandenen Sicherheitsgurte anlegen können"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-104",
+      "text": "Wie dürfen Sie in Ihrem Pkw ein Kleinkind mitnehmen?",
+      "number": "2.2.21-104",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "In einer Baby-Tragetasche auf den hinteren Sitzen",
+        "Auf dem Schoß einer erwachsenen Person"
+      ],
+      "correctAnswers": [
+        "In einer für das Kind geeigneten Rückhalteeinrichtung mit Prüfzeichen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-105",
+      "text": "Wie dürfen Sie in Ihrem Pkw ein fünfjähriges Kind mitnehmen?",
+      "number": "2.2.21-105",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf der hinteren Sitzbank mit angelegtem Beckengurt",
+        "Auf einem hinteren Sitz mit serienmäßigem Dreipunktgurt"
+      ],
+      "correctAnswers": [
+        "In einem für das Kind geeigneten Kindersitz mit Prüfzeichen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-107",
+      "text": "Was ist bei der Verwendung eines Kindersitzes mit Prüfzeichen zu beachten?",
+      "number": "2.2.21-107",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Außer dem Prüfzeichen ist nichts weiter zu beachten"
+      ],
+      "correctAnswers": [
+        "Der Kindersitz muss für die Größe und das Gewicht des Kindes geeignet sein",
+        "Der Kindersitz muss für die Anbringung auf dem vorgesehenen Fahrzeugsitz geeignet sein"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-108",
+      "text": "Warum ist es gefährlich, Sicherheitsgurte nicht anzulegen?",
+      "number": "2.2.21-108",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Im Stadtverkehr ist es wegen der geringen Geschwindigkeit ungefährlich"
+      ],
+      "correctAnswers": [
+        "Weil man sich schon bei einer Aufprallgeschwindigkeit von ca. 20 km/h nicht mehr ausreichend abstützen kann",
+        "Weil man bei einem Unfall aus dem Fahrzeug geschleudert werden kann"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-111",
+      "text": "Ab welcher Aufprallgeschwindigkeit müssen Sie mit schweren oder tödlichen Verletzungen rechnen, wenn Sie keinen Sicherheitsgurt angelegt haben?",
+      "number": "2.2.21-111",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ab 50 km/h", "Ab 80 km/h"],
+      "correctAnswers": ["Ab 30 km/h"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-112",
+      "text": "Ein Pkw ist mit zwei Frontairbags ausgerüstet. Auf welchen Sitzplätzen müssen Sicherheitsgurte angelegt werden?",
+      "number": "2.2.21-112",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Nur auf den Vordersitzen",
+        "Nicht auf den Vordersitzen"
+      ],
+      "correctAnswers": ["Auf allen Sitzen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-113",
+      "text": "Was bedeutet dieser Warnhinweis?",
+      "number": "2.2.21-113",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_2_21_113.png",
+      "incorrectAnswers": [
+        "- muss der Kindersitz in der dargestellten Weise angebracht werden"
+      ],
+      "correctAnswers": [
+        "- darf ein Kindersitz nur in Fahrtrichtung angebracht werden",
+        "- darf kein Kindersitz entgegen der Fahrtrichtung angebracht werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-114",
+      "text": "Sie wollen nach einem Kindergeburtstag mehrere kleine Kinder nach Hause bringen. Was ist bei der Beförderung in Ihrem Pkw zu beachten?",
+      "number": "2.2.21-114",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Rückhalteeinrichtungen für Kinder brauchen innerhalb geschlossener Ortschaften nicht benutzt zu werden",
+        "Das Anschnallen der Kinder mit den vorhandenen Sicherheitsgurten reicht aus"
+      ],
+      "correctAnswers": [
+        "Die Kinder sind mit den vorgeschriebenen Rückhalteeinrichtungen zu sichern"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-117",
+      "text": "Was ist bei Kopfstützen zu beachten?",
+      "number": "2.2.21-117",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf den Rücksitzen ersetzen sie den Sicherheitsgurt",
+        "Sie werden werksseitig optimal eingestellt"
+      ],
+      "correctAnswers": [
+        "Sie sind nach der Kopfhöhe entsprechend der Betriebsanleitung einzustellen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-118",
+      "text": "Während der Fahrt leuchtet die Airbagkontrollleuchte ständig. Was müssen Sie tun?",
+      "number": "2.2.21-118",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Fahrzeug sofort aus dem Straßenverkehr entfernen",
+        "Nichts, weil das ein Signal für die Werkstatt ist"
+      ],
+      "correctAnswers": ["Eine Werkstatt aufsuchen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-121",
+      "text": "Wie können Sie verhindern, dass ein Kind während der Fahrt eine hintere Tür öffnet?",
+      "number": "2.2.21-121",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", "- die Zentralverriegelung"],
+      "correctAnswers": ["- die Kindersicherung der hinteren Türen"]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-122",
+      "text": "Sie möchten in Ihrem Pkw ein Kind mitnehmen. Wann müssen Sie hierzu einen Kindersitz verwenden?",
+      "number": "2.2.21-122",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Wenn das Kind älter als 12 Jahre und größer als 150 cm ist",
+        "Wenn das Kind älter als 12 Jahre und kleiner als 150 cm ist"
+      ],
+      "correctAnswers": [
+        "Wenn das Kind jünger als 12 Jahre und kleiner als 150 cm ist"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-123",
+      "text": "Sie möchten auf dem Beifahrersitz ein Baby mitnehmen. Was müssen Sie bei der Verwendung einer Baby-Trageschale beachten?",
+      "number": "2.2.21-123",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Ein vorhandener Beifahrer-Airbag muss deaktiviert sein",
+        "Das Baby muss in der Baby-Trageschale angeschnallt sein",
+        "Die Baby-Trageschale muss entgegen der Fahrtrichtung angebracht sein"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-301",
+      "text": "Sie fahren einen Bus im Gelegenheitsverkehr und sollen Personen und Reisegepäck befördern. Was müssen Sie beachten?",
+      "number": "2.2.21-301",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Bei ordnungsgemäß verstautem Gepäck darf die zulässige Gesamtmasse um 10 % überschritten werden"
+      ],
+      "correctAnswers": [
+        "Es dürfen einschließlich Fahrer höchstens so viele Personen befördert werden, wie in der Zulassungsbescheinigung Teil I Sitzplätze ausgewiesen sind",
+        "Durch die Zuladung von Gepäck dürfen die zulässigen Achslasten und die zulässige Gesamtmasse nicht überschritten werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.2.21-401",
+      "text": "Wie dürfen auf landwirtschaftlich eingesetzten Anhängern Personen mitgenommen werden?",
+      "number": "2.2.21-401",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Stehend auf leeren Anhängern"],
+      "correctAnswers": [
+        "Stehend, wenn es zur Begleitung der Ladung nötig ist",
+        "Sitzend auf geeigneten Sitzgelegenheiten"
+      ]
+    }
+  ]
+}

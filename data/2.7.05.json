@@ -1,0 +1,326 @@
+{
+  "link": "/Fragenkatalog/2.7.05",
+  "text": "Verwendung und Wartung von Reifen",
+  "number": "2.7.05",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.05-001",
+      "text": "Welche Bedeutung hat das auf dem Reifen angegebene Herstellungsdatum „1217”?",
+      "number": "2.7.05-001",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_05_001.jpg",
+      "incorrectAnswers": [
+        "- im 12. Monat (Dezember) des Jahres 2017 hergestellt",
+        "- am 1.2.2017 hergestellt"
+      ],
+      "correctAnswers": [
+        "- in der 12. Kalenderwoche des Jahres 2017 hergestellt"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-002",
+      "text": "Wann sollten Sie den Reifendruck überprüfen?",
+      "number": "2.7.05-002",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Unmittelbar nach jeder Fahrt"],
+      "correctAnswers": [
+        "Regelmäßig bei kalten Reifen",
+        "Unmittelbar nach jedem Reifenwechsel"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-003",
+      "text": "Welche Profiltiefe müssen die Reifen Ihres Mofas mindestens aufweisen?",
+      "number": "2.7.05-003",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["", ""],
+      "correctAnswers": [""]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-004",
+      "text": "Welche Folge kann zu hoher oder zu niedriger Luftdruck in den Reifen des Kraftrads haben?",
+      "number": "2.7.05-004",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Reaktionsweg verlängert sich"],
+      "correctAnswers": [
+        "Der Reifenverschleiß erhöht sich",
+        "Das Fahrverhalten des Kraftrads verschlechtert sich"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-101",
+      "text": "Was ist beim Radwechsel mit einem Wagenheber zu beachten?",
+      "number": "2.7.05-101",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Wagenheber ist immer mittig an der Längsseite des Fahrzeugs anzubringen"
+      ],
+      "correctAnswers": [
+        "Der Untergrund sollte immer stabil und rutschfest sein",
+        "Der Wagenheber darf nur an den vom Fahrzeughersteller festgelegten Aufnahmepunkten angesetzt werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-102",
+      "text": "Sie müssen ein defektes Rad demontieren. In welcher Reihenfolge sollten Sie vorgehen?",
+      "number": "2.7.05-102",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Fahrzeug gegen Wegrollen sichern, Wagenheber ansetzen, Fahrzeug anheben, Radmuttern lösen, Radmuttern herausdrehen",
+        "Wagenheber ansetzen, Fahrzeug gegen Wegrollen sichern, Radmuttern lösen, Fahrzeug anheben, Radmuttern herausdrehen"
+      ],
+      "correctAnswers": [
+        "Fahrzeug gegen Wegrollen sichern, Wagenheber ansetzen, Radmuttern lösen, Fahrzeug anheben, Radmuttern herausdrehen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-103",
+      "text": "Was bedeutet das rot gekennzeichnete Symbol auf dem Reifen?",
+      "number": "2.7.05-103",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_05_103.png",
+      "incorrectAnswers": [
+        "- darf nur in Verbindung mit Schneeketten benutzt werden"
+      ],
+      "correctAnswers": [
+        "- ist für winterliche Wetterverhältnisse geeignet",
+        "- unterstützt die Fahreigenschaften auch bei Schnee"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-104",
+      "text": "Was müssen Sie beim Fahren mit Winterreifen besonders beachten?",
+      "number": "2.7.05-104",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- nicht schneller als 80 km/h fahren",
+        "- höchstens so schnell fahren wie bei der Nutzung von Schneeketten"
+      ],
+      "correctAnswers": [
+        "- die zulässige Höchstgeschwindigkeit für diese Reifen nicht überschreiten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-105",
+      "text": "Ihr Pkw ist mit Winterreifen ausgerüstet. Welche Bedeutung hat der Geschwindigkeits-Aufkleber „max. 190 km/h” am Armaturenbrett?",
+      "number": "2.7.05-105",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- gilt nur bei winterlichen Straßenverhältnissen",
+        "- gilt nicht bei trockenen Straßenverhältnissen"
+      ],
+      "correctAnswers": ["- darf nicht überschritten werden"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-106",
+      "text": "Was ist nach dem Anbau von Winterreifen an Ihrem Pkw zu beachten?",
+      "number": "2.7.05-106",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Luftdruck sollte 0,5 bar niedriger sein als die Herstellervorgabe für Sommerreifen"
+      ],
+      "correctAnswers": [
+        "Der Reifenfülldruck ist entsprechend den Herstellervorgaben zu überprüfen",
+        "Die zulässige Höchstgeschwindigkeit der Reifen ist zu berücksichtigen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-203",
+      "text": "Wie wirkt sich falscher Reifendruck aus?",
+      "number": "2.7.05-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Die Reaktionszeit verlängert sich"],
+      "correctAnswers": [
+        "Die Fahrstabilität ist beeinträchtigt",
+        "Der Verschleiß der Reifen erhöht sich"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-205",
+      "text": "Wozu kann zu niedriger Reifendruck führen?",
+      "number": "2.7.05-205",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Überhitzung des Reifens",
+        "Erhöhung des Kraftstoffverbrauchs",
+        "Verminderung der Fahrstabilität"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-211",
+      "text": "Was ist unter der Kennzeichnung „TWI” (Tread Wear Indicator) zu verstehen?",
+      "number": "2.7.05-211",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Anzeiger für schlauchlose Reifen",
+        "Anzeiger für den nachgeschnittenen Reifen"
+      ],
+      "correctAnswers": ["Anzeiger für den Reifenverschleiß"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-212",
+      "text": "Woran erkennen Sie, ob Reifen runderneuert sind?",
+      "number": "2.7.05-212",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Am Reifenprofil",
+        "Es gibt keine Erkennungsmöglichkeit"
+      ],
+      "correctAnswers": ["An der Kennzeichnung „RETREAD” auf der Reifenflanke"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-216",
+      "text": "Wo finden Sie Angaben zum Reifendruck für Ihr Fahrzeug?",
+      "number": "2.7.05-216",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "In der Zulassungsbescheinigung Teil I (Fahrzeugschein)",
+        "In den Ladungsdokumenten"
+      ],
+      "correctAnswers": ["In der Betriebsanleitung"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-217",
+      "text": "Welche Folgen kann es haben, wenn die Radbefestigungen nach einem Radwechsel nicht nachgezogen werden?",
+      "number": "2.7.05-217",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Reifen kann sich von der Felge lösen"],
+      "correctAnswers": [
+        "Das Rad kann beschädigt werden",
+        "Das Rad kann sich vom Fahrzeug lösen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-218",
+      "text": "Sie müssen das rechte Vorderrad Ihres zweiachsigen Kraftfahrzeugs wechseln. Gegen unbeabsichtigtes Wegrollen sichern Sie das Kraftfahrzeug mit einem Unterlegkeil.Was müssen Sie dabei beachten?",
+      "number": "2.7.05-218",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- das unbeschädigte Rad der Vorderachse"],
+      "correctAnswers": [
+        "- das Kraftfahrzeug auf möglichst festem Untergrund",
+        "- ein Rad der Hinterachse"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-219",
+      "text": "Sie müssen das rechte Vorderrad Ihres dreiachsigen Kraftfahrzeugs auf ebener Fläche wechseln.Was sollten Sie dabei beachten?",
+      "number": "2.7.05-219",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- zwei Unterlegkeilen an dem unbeschädigten Rad der Vorderachse",
+        "- je einem Unterlegkeil an beiden Rädern der Hinterachse"
+      ],
+      "correctAnswers": ["- zwei Unterlegkeilen an einem Rad der Hinterachse"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-220",
+      "text": "Was bedeutet die Kennzeichnung „L” in der folgenden Reifenbezeichnung: 315/80 R 22.5 156/150 L?",
+      "number": "2.7.05-220",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_05_220.jpg",
+      "incorrectAnswers": [
+        "- Tragfähigkeit des Reifens",
+        "- Toleranz des Luftdrucks im Reifen"
+      ],
+      "correctAnswers": ["- zulässige Höchstgeschwindigkeit des Reifens"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-221",
+      "text": "Was bedeutet die Kennzeichnung „156/150” in der folgenden Reifenbezeichnung: 315/80 R 22.5 156/150 L?",
+      "number": "2.7.05-221",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_05_221.jpg",
+      "incorrectAnswers": [
+        "- das Verhältnis der Höhe zur Breite",
+        "- den Abrollumfang in Abhängigkeit vom Luftdruck"
+      ],
+      "correctAnswers": [
+        "- die Tragfähigkeitskennzahl für Einzel- und Zwillingsbereifung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-222",
+      "text": "Das Reifendruckkontrollsystem (RDKS) zeigt Ihnen einen Druckverlust an einem der Zwillingsreifen an. Wie sollten Sie sich verhalten?",
+      "number": "2.7.05-222",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Ich lasse den Schaden bei der nächsten Inspektion beheben",
+        "Ich brauche die Anzeige nicht zu beachten, da der andere Zwillingsreifen das Gewicht trägt"
+      ],
+      "correctAnswers": [
+        "Ich halte an der nächsten geeigneten Stelle an und führe eine Sichtprüfung durch"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-223",
+      "text": "Was bedeutet das rot gekennzeichnete Symbol auf dem Reifen?",
+      "number": "2.7.05-223",
+      "type": "image",
+      "medialink": "https://www.fuehrerschein-lernsystem.de/gfx2/large/2_7_05_223.png",
+      "incorrectAnswers": [
+        "- darf nur in Verbindung mit Schneeketten benutzt werden"
+      ],
+      "correctAnswers": [
+        "- ist für winterliche Wetterverhältnisse geeignet",
+        "- unterstützt die Fahreigenschaften auch bei Schnee"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-224",
+      "text": "Was sollten Sie bei einem mitgeführten Ersatzrad kontrollieren?",
+      "number": "2.7.05-224",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Die doppelte Sicherung des Ersatzrads",
+        "Den Luftdruck des Ersatzrads",
+        "Die sichere Befestigung des Ersatzrads"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-225",
+      "text": "Wann sollten Sie die Zulässigkeit Ihrer Reifen anhand der Reifenbezeichnung überprüfen?",
+      "number": "2.7.05-225",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Bei jeder Abgabe in der Werkstatt"],
+      "correctAnswers": [
+        "Bei jeder Übernahme eines fremden Fahrzeugs",
+        "Bei jedem Radwechsel"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.05-226",
+      "text": "Was müssen Sie vor Fahrtantritt an der Bereifung überprüfen?",
+      "number": "2.7.05-226",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- das Hauptprofil eine Mindestprofiltiefe von 1 mm hat"
+      ],
+      "correctAnswers": [
+        "- Beschädigungen vorhanden sind",
+        "- ein Druckverlust vorliegt"
+      ]
+    }
+  ]
+}

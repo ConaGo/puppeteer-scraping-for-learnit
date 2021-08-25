@@ -1,0 +1,161 @@
+{
+  "link": "/Fragenkatalog/2.7.03",
+  "text": "Verbrennungsmaschine, Flüssigkeiten, Kraftstoffsystem, elektrische Anlage, Zündung, Kraftübertragung",
+  "number": "2.7.03",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.03-101",
+      "text": "Welche Folge kann eine zu geringe Menge Kühlflüssigkeit im Motor haben?",
+      "number": "2.7.03-101",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- zur Erhöhung des Kraftstoffverbrauchs führen"],
+      "correctAnswers": [
+        "- zur Überhitzung des Motors führen",
+        "- zum Motorschaden führen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-102",
+      "text": "Sie fahren mit Schrittgeschwindigkeit in einem Stau. Wann ist der Kupplungsverschleiß an Ihrem Kraftfahrzeug mit manuellem Schaltgetriebe am geringsten?",
+      "number": "2.7.03-102",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- langsam mit schleifender Kupplung fahre",
+        "- wiederholt anfahre und anhalte"
+      ],
+      "correctAnswers": [
+        "- in einem niedrigen Gang möglichst ohne Betätigung der Kupplung fahre"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-201",
+      "text": "Warum nennt man den Dieselmotor auch Selbstzündungsmotor?",
+      "number": "2.7.03-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Weil der Arbeitstakt durch einen Zündfunken gestartet wird",
+        "Weil der Arbeitstakt durch den druckempfindlichen Kraftstoff gestartet wird"
+      ],
+      "correctAnswers": [
+        "Weil der Arbeitstakt durch die Entzündung des eingespritzten Kraftstoffes an der verdichteten Luft gestartet wird"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-203",
+      "text": "Welche Aufgabe hat die Nockenwelle bei einem Dieselmotor?",
+      "number": "2.7.03-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Motordrehzahl zu begrenzen",
+        "Die Motortemperatur zu steuern"
+      ],
+      "correctAnswers": ["Die Ventile im Motor zu steuern"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-205",
+      "text": "Welche Aufgabe hat ein Kühlmittelthermostat im Kühlkreislauf des Motors?",
+      "number": "2.7.03-205",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Betriebstemperatur des Motors anzuzeigen",
+        "Den Kühlmittelstand im Kühler anzuzeigen"
+      ],
+      "correctAnswers": ["Die Betriebstemperatur des Motors zu regeln"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-206",
+      "text": "Wodurch kann im Winter an einer Kühlanlage des Motors Schaden entstehen?",
+      "number": "2.7.03-206",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Es kann kein Schaden entstehen, da geschlossene Systeme keine Wartung benötigen",
+        "Wenn nicht mindestens zweimal im Jahr die Kühlflüssigkeit gewechselt wird"
+      ],
+      "correctAnswers": ["Durch nicht ausreichenden Frostschutz"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-207",
+      "text": "Welches Motoröl deckt den größten Temperaturbereich ab?",
+      "number": "2.7.03-207",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["SAE 10 W 30", "SAE 30"],
+      "correctAnswers": ["SAE 10 W 40"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-208",
+      "text": "Ihr Dieselmotor springt im Winter nicht an. Woran kann dies liegen?",
+      "number": "2.7.03-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Zündkerzen erzeugen keinen Zündfunken",
+        "Die Zündkabel sind nass geworden"
+      ],
+      "correctAnswers": ["Es befindet sich noch Sommerdieselkraftstoff im Tank"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-211",
+      "text": "Welche Aufgabe hat eine Differenzialsperre?",
+      "number": "2.7.03-211",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- verbessert das Fahrverhalten bei Kurvenfahrt"],
+      "correctAnswers": [
+        "- verbessert die Traktion bei langsamer Geländefahrt und rutschiger Fahrbahn",
+        "- verteilt das Antriebsmoment gleichmäßig auf die Antriebsräder"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-212",
+      "text": "Wann ist das Einschalten der Differenzialsperre hilfreich?",
+      "number": "2.7.03-212",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- auf trockener Fahrbahn rangiere"],
+      "correctAnswers": [
+        "- mich festgefahren habe und einzelne Antriebsräder durchdrehen",
+        "- auf glatter Fahrbahn langsam geradeaus fahre"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-213",
+      "text": "Wann können Sie die Differenzialsperre einschalten, ohne dass dadurch Schäden am Kraftfahrzeug zu erwarten sind?",
+      "number": "2.7.03-213",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["- in einer Kurve untersteuert"],
+      "correctAnswers": ["- steht", "- mit Schrittgeschwindigkeit fährt"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-214",
+      "text": "Was erhöht den Kupplungsverschleiß bei Kraftfahrzeugen mit manuellem Schaltgetriebe?",
+      "number": "2.7.03-214",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Anfahren in niedrigem Gang"],
+      "correctAnswers": [
+        "Anfahren in hohem Gang",
+        "Rangieren mit erhöhter Motordrehzahl"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.03-215",
+      "text": "Wie können Sie die Kupplungsbauteile bei Kraftfahrzeugen mit manuellem Schaltgetriebe schonen?",
+      "number": "2.7.03-215",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ich fahre in einem hohen Gang an"],
+      "correctAnswers": [
+        "Ich rangiere mit geringer Motordrehzahl",
+        "Ich lege beim Warten den Leerlauf ein und nehme den Fuß vom Kupplungspedal"
+      ]
+    }
+  ]
+}

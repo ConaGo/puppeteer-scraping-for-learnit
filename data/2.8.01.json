@@ -1,0 +1,104 @@
+{
+  "link": "/Fragenkatalog/2.8.01",
+  "text": "Eignung und Befähigung von Kraftfahrern",
+  "number": "2.8.01",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.8.01-001",
+      "text": "Wie lange dauert normalerweise die Probezeit?",
+      "number": "2.8.01-001",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["1 Jahr", "3 Jahre"],
+      "correctAnswers": ["2 Jahre"]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-009",
+      "text": "Sie befinden sich in der Probezeit und sind bisher nicht auffällig geworden. Welche Folgen können eintreten, wenn Sie an dem Verkehrszeichen „Halt. Vorfahrt gewähren.” nicht anhalten und dadurch andere Verkehrsteilnehmer gefährden?",
+      "number": "2.8.01-009",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Anordnung zum erneuten Ablegen einer theoretischen Fahrerlaubnisprüfung"
+      ],
+      "correctAnswers": [
+        "Anordnung zur Teilnahme an einem Aufbauseminar für Fahranfänger",
+        "Eintrag in das Fahreignungsregister"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-010",
+      "text": "Was soll mit der Teilnahme an einem Aufbauseminar innerhalb der Probezeit erreicht werden?",
+      "number": "2.8.01-010",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Ein Abbau der Punkte im Fahreignungsregister"],
+      "correctAnswers": [
+        "Eine Verbesserung der Gefahrenerkennung",
+        "Eine rücksichtsvollere und risikobewusstere Einstellung zum Straßenverkehr"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-011",
+      "text": "Aufgrund mehrerer Verstöße innerhalb der Probezeit hat die Behörde die Teilnahme an einem Aufbauseminar angeordnet. Der Fahranfänger kommt dieser Anordnung nicht nach. Womit muss er jetzt rechnen?",
+      "number": "2.8.01-011",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Mit einem Bußgeldbescheid",
+        "Mit zusätzlichen Punkten im Fahreignungsregister"
+      ],
+      "correctAnswers": ["Mit dem Entzug der Fahrerlaubnis"]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-012",
+      "text": "Womit muss ein Fahrerlaubnisbewerber rechnen, wenn er beim Fahren ohne Fahrerlaubnis erwischt wird?",
+      "number": "2.8.01-012",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Mit keinen Auswirkungen, solange man in einer Fahrschule angemeldet ist"
+      ],
+      "correctAnswers": [
+        "Die Fahrerlaubnisbehörde kann den Prüfauftrag zurückziehen",
+        "Eine Überprüfung der Eignung zum Führen von Kraftfahrzeugen kann angeordnet werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-201",
+      "text": "Sie transportieren mit einem Lkw gewerblich Güter. Was ist das Ziel der 35-stündigen Weiterbildung, an der Sie innerhalb von 5 Jahren teilnehmen müssen?",
+      "number": "2.8.01-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Erwerb einer zusätzlichen Fahrerlaubnisklasse"],
+      "correctAnswers": [
+        "Die Auffrischung der Kenntnisse über die Vorschriften für den Güterkraftverkehr",
+        "Die Erhöhung des Gesundheitsbewusstseins"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-202",
+      "text": "Die Tätigkeit als Berufskraftfahrer erfordert das Absolvieren einer Grundqualifikation und die regelmäßige Teilnahme an Weiterbildungen. Wo finden Sie die Angaben zur Befristung Ihrer Grundqualifikation zum Berufskraftfahrer?",
+      "number": "2.8.01-202",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf der Internetseite des Kraftfahrt-Bundesamtes (KBA)",
+        "Auf der Fahrerkarte"
+      ],
+      "correctAnswers": ["Auf dem Führerschein"]
+    },
+    {
+      "link": "/Fragenkatalog/2.8.01-203",
+      "text": "Sie befördern mit einem Bus gewerblich Personen. Was ist das Ziel der 35-stündigen Weiterbildung, an der Sie innerhalb von 5 Jahren teilnehmen müssen?",
+      "number": "2.8.01-203",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Erwerb einer zusätzlichen Fahrerlaubnisklasse"],
+      "correctAnswers": [
+        "Die Auffrischung der Kenntnisse über die Vorschriften für den Personenverkehr",
+        "Die Erhöhung des Gesundheitsbewusstseins"
+      ]
+    }
+  ]
+}

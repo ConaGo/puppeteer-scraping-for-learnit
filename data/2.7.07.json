@@ -1,0 +1,311 @@
+{
+  "link": "/Fragenkatalog/2.7.07",
+  "text": "Anhängekupplungssysteme",
+  "number": "2.7.07",
+  "questions": [
+    {
+      "link": "/Fragenkatalog/2.7.07-201",
+      "text": "Welche Kontroll- und Wartungsarbeiten müssen an einer Sattelkupplung regelmäßig vorgenommen werden?",
+      "number": "2.7.07-201",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Sattelkupplungen sind immer wartungsfrei"],
+      "correctAnswers": [
+        "Sattelkupplung abschmieren",
+        "Befestigung am Rahmen kontrollieren"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-208",
+      "text": "Was ist beim Ankuppeln eines Anhängers mit Kugelkupplung zu beachten?",
+      "number": "2.7.07-208",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Stützrad darf den Boden während des Ankuppelns nicht berühren"
+      ],
+      "correctAnswers": [
+        "Die Kupplungsklaue muss sicher schließen",
+        "Ein vorhandenes Stützrad muss vor Abfahrt angehoben und gesichert werden"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-209",
+      "text": "Was ist nach dem Ankuppeln eines mehrachsigen Anhängers an eine selbsttätig wirkende Anhängekupplung zu überprüfen?",
+      "number": "2.7.07-209",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Der Neigungswinkel der Anhängerzuggabel"],
+      "correctAnswers": [
+        "Die Stellung des Kontrollstiftes",
+        "Das vollständige Einrasten des Kupplungsbolzens"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-302",
+      "text": "Was müssen Sie nach dem Aufsatteln eines Sattelanhängers tun?",
+      "number": "2.7.07-302",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Rückfahrsperre am Sattelanhänger lösen"],
+      "correctAnswers": [
+        "Verschluss und Sicherungssystem der Sattelkupplung überprüfen",
+        "Alle Schlauch- und Kabelverbindungen herstellen und überprüfen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-303",
+      "text": "Wie viel Höhenspiel darf der Kupplungsbolzen höchstens haben?",
+      "number": "2.7.07-303",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["2 mm", "6 mm"],
+      "correctAnswers": ["4 mm"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-304",
+      "text": "Sie übernehmen einen von Ihnen bisher nicht benutzten Sattelanhänger. Worauf müssen Sie vor dem Aufsatteln achten?",
+      "number": "2.7.07-304",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Auf gleiche Reifengröße von Sattelanhänger und Sattelzugmaschine"
+      ],
+      "correctAnswers": [
+        "Auf Abnutzung oder Beschädigung des Kupplungszapfens",
+        "Auf ausreichenden Freiraum zwischen Führerhaus und Sattelanhänger"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-305",
+      "text": "Was müssen Sie vor dem Absatteln eines Sattelanhängers tun?",
+      "number": "2.7.07-305",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [],
+      "correctAnswers": [
+        "Die Räder des Sattelanhängers feststellen und die Stützeinrichtung ausfahren",
+        "Alle Schlauch- und Kabelverbindungen zwischen Sattelzugmaschine und Sattelanhänger trennen",
+        "Die Kupplungsverriegelung entsichern und den Verschluss der Sattelkupplung öffnen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-306",
+      "text": "Was ist beim Ankuppeln eines Mehrachsanhängers richtig?",
+      "number": "2.7.07-306",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Anhänger wird zum Zugfahrzeug geschoben",
+        "Beide Fahrzeuge werden gleichzeitig aufeinander zubewegt"
+      ],
+      "correctAnswers": ["Das Zugfahrzeug wird zum Anhänger rangiert"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-309",
+      "text": "Wovon müssen Sie sich vor dem Ankuppeln eines mehrachsigen Anhängers überzeugen?",
+      "number": "2.7.07-309",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Ob die Vorratsbehälter der Anhänger-Druckluftbremse gefüllt sind"
+      ],
+      "correctAnswers": [
+        "Ob die Zuggabel richtig eingestellt ist",
+        "Ob der Anhänger gegen Wegrollen gesichert ist (Feststellbremse, Unterlegkeile)"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-312",
+      "text": "Wie können Sie erkennen, ob bei einer selbsttätigen Anhängekupplung der Kupplungsbolzen richtig eingerastet ist?",
+      "number": "2.7.07-312",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "An der Stellung des Lösehebels der Kupplung",
+        "Durch kurzes Anrucken"
+      ],
+      "correctAnswers": [
+        "Am Kontrollstift der Kupplung oder an der Kontrollleuchte im Führerhaus"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-315",
+      "text": "Wie viel Spiel in Zugrichtung darf die Zuggabel in den Lagerbuchsen höchstens haben?",
+      "number": "2.7.07-315",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Bis 1,5 mm", "Bis 3 mm"],
+      "correctAnswers": ["Kein merkliches Spiel"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-317",
+      "text": "Welche Folgen kann Längsspiel der Zugstange einer Anhängekupplung haben?",
+      "number": "2.7.07-317",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Überbeanspruchung der Stoßdämpfer an der Hinterachse"
+      ],
+      "correctAnswers": [
+        "Rissbildung in der Traverse, an der die Anhängekupplung befestigt ist",
+        "Ausreißen der Anhängekupplung"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-319",
+      "text": "Wie sind die Druckluftleitungen beim Abkuppeln eines Anhängers zu trennen?",
+      "number": "2.7.07-319",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zuerst die Bremsleitung (gelber Kupplungskopf)"],
+      "correctAnswers": [
+        "Zuerst die Vorratsleitung (roter Kupplungskopf)",
+        "Beide Leitungen gleichzeitig bei kombinierten Kupplungsköpfen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-320",
+      "text": "Was müssen Sie beim Ankuppeln eines Anhängers beachten?",
+      "number": "2.7.07-320",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Zuerst die Vorratsleitung anschließen (roter Kupplungskopf)"
+      ],
+      "correctAnswers": [
+        "Zuerst die Bremsleitung anschließen (gelber Kupplungskopf)",
+        "Bei kombinierten Kupplungsköpfen beide Leitungen gleichzeitig anschließen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-321",
+      "text": "Was müssen Sie beim Ankuppeln eines Anhängers beachten?",
+      "number": "2.7.07-321",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["Zuerst die Vorratsleitung anschließen"],
+      "correctAnswers": [
+        "Verschiedenfarbige Kupplungsteile dürfen nicht miteinander verbunden werden",
+        "Nach dem Ankuppeln Feststellbremse lösen und Unterlegkeile entfernen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-322",
+      "text": "Worauf müssen Sie nach dem Ankuppeln eines Anhängers an eine selbsttätig wirkende Anhängekupplung achten?",
+      "number": "2.7.07-322",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das Fangmaul darf nach dem Einrasten des Kupplungsbolzens nicht mehr seitlich schwenkbar sein"
+      ],
+      "correctAnswers": [
+        "Der Kupplungsbolzen muss vollständig eingerastet sein",
+        "Auf die Stellung des Kontrollstiftes"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-323",
+      "text": "Welche Voraussetzung muss vor dem Aufsatteln eines Sattelanhängers erfüllt sein?",
+      "number": "2.7.07-323",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Alle Schlauch- und Kabelverbindungen müssen hergestellt sein"
+      ],
+      "correctAnswers": [
+        "Sattelkupplung und Sattelzapfen müssen etwa auf gleicher Höhe stehen",
+        "Die Sattelkupplung muss entsichert und geöffnet sein"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-324",
+      "text": "Der Kupplungsbolzen Ihrer Anhängekupplung hat im Neuzustand 38 mm Durchmesser. Was müssen Sie bei Verschleiß beachten?",
+      "number": "2.7.07-324",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Der Kupplungsbolzen darf einseitig den Durchmesser von 36,5 mm an der Kupplungsfläche unterschreiten"
+      ],
+      "correctAnswers": [
+        "Es darf kein übermäßiges Spiel in der unteren Bolzenführung vorhanden sein",
+        "Der Durchmesser darf 36,5 mm am gesamten Umfang der Kupplungsfläche nicht unterschreiten"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-325",
+      "text": "In der Zugeinrichtung des Anhängers tritt erhebliches Längsspiel auf. Welche Auswirkung kann das haben?",
+      "number": "2.7.07-325",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Die Reifen an der Hinterachse können überlastet werden"
+      ],
+      "correctAnswers": [
+        "An der Schlusstraverse des Zugfahrzeugs können Schäden auftreten",
+        "Der Anhänger kann abreißen"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-326",
+      "text": "Wie viel Längsspiel darf die Zugstange der Anhängekupplung haben?",
+      "number": "2.7.07-326",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Das zulässige Längsspiel ist abhängig vom Durchmesser der Zugeinrichtung",
+        "Ein maximales Längsspiel von 1,5 mm"
+      ],
+      "correctAnswers": ["Ein Längsspiel ist nicht zulässig"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-327",
+      "text": "Die Zuggabel eines Deichselanhängers soll in Kupplungshöhe des heranfahrenden Zugfahrzeugs gehalten werden. Wodurch sollte dies geschehen?",
+      "number": "2.7.07-327",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- Höheneinstellvorrichtung des Zugfahrzeugs",
+        "- einweisende Person"
+      ],
+      "correctAnswers": ["- Höheneinstellvorrichtung des Anhängers"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-328",
+      "text": "Wie sollten Sie den Verschleißzustand an der Zuggabel oder dem Drehkranz an einem Deichselanhänger überprüfen?",
+      "number": "2.7.07-328",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "Bei abgeschalteter Voreilung während der Fahrt mehrfach scharf bremsen",
+        "Mit dem Zugfahrzeug kurz anfahren, wenn der Anhänger mit der Betriebsbremse gesichert ist"
+      ],
+      "correctAnswers": [
+        "Mit dem Zugfahrzeug kurz anfahren, wenn der Anhänger mit der Feststellbremse gesichert ist"
+      ]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-330",
+      "text": "Wie groß darf der Verschleiß an der Zugöse einer Zuggabel im Durchmesser höchstens sein?",
+      "number": "2.7.07-330",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": ["1,0 mm", "2,0 mm"],
+      "correctAnswers": ["1,5 mm"]
+    },
+    {
+      "link": "/Fragenkatalog/2.7.07-401",
+      "text": "Ihre Zugmaschine ist mit einem Kupplungssystem K 80 mit manueller Verriegelung ausgerüstet. Was müssen Sie beim Ankuppeln eines Anhängers beachten?",
+      "number": "2.7.07-401",
+      "type": "simple",
+      "medialink": "",
+      "incorrectAnswers": [
+        "- das Kupplungssystem vor jeder Nutzung abschmieren"
+      ],
+      "correctAnswers": [
+        "- den Niederhalter am Kupplungssystem nach dem Ankuppeln verriegeln",
+        "- die Höhe der Anhängekupplung auf den jeweiligen Anhänger anpassen"
+      ]
+    }
+  ]
+}
